@@ -1,0 +1,2001 @@
+transaction_id,transaction_type,merchant_category,device_type,network_type,hour_of_day,day_of_week,is_weekend
+TXN0000000042,P2M,Shopping,Android,4G,12,Tuesday,0
+TXN0000000118,Bill Payment,Fuel,Android,4G,9,Thursday,0
+TXN0000000120,P2P,Shopping,Android,5G,11,Friday,0
+TXN0000000257,P2M,Healthcare,Android,4G,9,Monday,0
+TXN0000000716,P2P,Shopping,Android,4G,11,Monday,0
+TXN0000000791,P2P,Utilities,Android,4G,11,Sunday,1
+TXN0000000796,Bill Payment,Transport,iOS,4G,8,Sunday,1
+TXN0000001055,Bill Payment,Grocery,Android,4G,17,Monday,0
+TXN0000001117,P2P,Shopping,Android,WiFi,0,Thursday,0
+TXN0000001186,P2P,Entertainment,Android,5G,9,Friday,0
+TXN0000001190,P2M,Food,Android,4G,8,Saturday,1
+TXN0000001198,P2P,Food,Android,4G,7,Sunday,1
+TXN0000001399,Recharge,Food,Android,WiFi,21,Sunday,1
+TXN0000001500,Recharge,Food,iOS,5G,10,Wednesday,0
+TXN0000001544,P2P,Fuel,Web,5G,11,Wednesday,0
+TXN0000001636,P2M,Food,Android,4G,12,Saturday,1
+TXN0000002194,P2M,Grocery,Android,5G,21,Sunday,1
+TXN0000002681,Bill Payment,Grocery,Android,WiFi,20,Friday,0
+TXN0000003492,P2M,Fuel,Android,WiFi,22,Wednesday,0
+TXN0000003670,P2P,Other,Android,5G,19,Tuesday,0
+TXN0000003695,P2P,Grocery,Android,5G,13,Wednesday,0
+TXN0000003738,P2P,Entertainment,Android,5G,11,Friday,0
+TXN0000003916,P2P,Shopping,iOS,4G,23,Sunday,1
+TXN0000003955,P2P,Shopping,Android,4G,5,Monday,0
+TXN0000003964,P2M,Utilities,iOS,3G,17,Thursday,0
+TXN0000004083,P2P,Grocery,Android,4G,22,Saturday,1
+TXN0000004096,P2M,Food,Android,WiFi,17,Tuesday,0
+TXN0000004362,Bill Payment,Healthcare,Android,4G,12,Wednesday,0
+TXN0000004363,P2M,Utilities,Android,4G,19,Friday,0
+TXN0000004511,P2P,Shopping,Android,4G,13,Monday,0
+TXN0000004885,P2P,Shopping,Android,5G,10,Friday,0
+TXN0000005091,Bill Payment,Shopping,Android,WiFi,19,Wednesday,0
+TXN0000005298,P2M,Food,Android,4G,10,Monday,0
+TXN0000005315,Bill Payment,Grocery,iOS,4G,8,Saturday,1
+TXN0000005318,P2P,Food,Android,4G,13,Tuesday,0
+TXN0000005568,P2P,Shopping,Android,5G,20,Sunday,1
+TXN0000005800,Bill Payment,Shopping,Android,5G,16,Sunday,1
+TXN0000005811,P2M,Food,iOS,5G,7,Wednesday,0
+TXN0000005903,P2M,Shopping,Android,4G,8,Monday,0
+TXN0000006001,P2M,Entertainment,iOS,4G,21,Friday,0
+TXN0000006125,P2M,Grocery,iOS,5G,18,Tuesday,0
+TXN0000006249,P2P,Transport,Android,5G,21,Sunday,1
+TXN0000006275,P2M,Entertainment,Android,4G,17,Wednesday,0
+TXN0000006293,P2M,Healthcare,iOS,5G,11,Monday,0
+TXN0000006501,P2M,Entertainment,iOS,4G,11,Sunday,1
+TXN0000006577,P2P,Shopping,Android,4G,10,Thursday,0
+TXN0000006661,Bill Payment,Grocery,iOS,4G,22,Monday,0
+TXN0000006784,P2P,Grocery,Android,4G,18,Sunday,1
+TXN0000006944,P2P,Food,Android,4G,18,Friday,0
+TXN0000007159,P2P,Shopping,iOS,4G,10,Monday,0
+TXN0000007256,P2P,Transport,Android,5G,11,Saturday,1
+TXN0000007430,P2M,Other,iOS,4G,20,Monday,0
+TXN0000007525,P2P,Grocery,Android,5G,12,Monday,0
+TXN0000008053,Bill Payment,Utilities,Android,4G,21,Tuesday,0
+TXN0000008214,P2M,Education,Android,4G,22,Sunday,1
+TXN0000008283,P2P,Entertainment,Android,5G,13,Tuesday,0
+TXN0000008326,P2P,Shopping,Android,4G,16,Sunday,1
+TXN0000008422,Bill Payment,Healthcare,Android,4G,18,Saturday,1
+TXN0000008688,P2M,Entertainment,iOS,5G,12,Wednesday,0
+TXN0000008840,P2P,Transport,Android,WiFi,12,Saturday,1
+TXN0000008940,P2M,Food,Android,4G,22,Saturday,1
+TXN0000009018,Bill Payment,Food,Web,4G,1,Wednesday,0
+TXN0000009255,P2P,Fuel,Android,4G,17,Tuesday,0
+TXN0000009482,Bill Payment,Utilities,Android,5G,20,Wednesday,0
+TXN0000009490,P2P,Entertainment,Android,5G,8,Monday,0
+TXN0000009902,Bill Payment,Grocery,iOS,5G,21,Thursday,0
+TXN0000010050,P2P,Transport,Android,5G,6,Tuesday,0
+TXN0000010439,P2P,Grocery,Android,4G,10,Friday,0
+TXN0000010461,Recharge,Education,Web,5G,4,Thursday,0
+TXN0000010614,P2P,Other,Android,5G,11,Wednesday,0
+TXN0000010753,P2M,Utilities,Android,5G,21,Monday,0
+TXN0000010764,Recharge,Entertainment,Android,4G,17,Sunday,1
+TXN0000010924,P2M,Grocery,iOS,5G,19,Thursday,0
+TXN0000011012,P2M,Shopping,Android,4G,17,Saturday,1
+TXN0000011044,Bill Payment,Entertainment,iOS,5G,22,Wednesday,0
+TXN0000011236,P2P,Other,Android,WiFi,19,Monday,0
+TXN0000011268,Recharge,Fuel,iOS,4G,17,Wednesday,0
+TXN0000011538,Recharge,Utilities,Web,4G,15,Tuesday,0
+TXN0000011547,P2M,Food,Android,5G,20,Sunday,1
+TXN0000011869,Recharge,Food,Android,WiFi,18,Sunday,1
+TXN0000012078,P2P,Food,Android,4G,22,Friday,0
+TXN0000012092,Recharge,Education,Android,5G,19,Thursday,0
+TXN0000012119,P2P,Healthcare,Android,4G,12,Sunday,1
+TXN0000012166,P2P,Shopping,Android,WiFi,21,Tuesday,0
+TXN0000012170,P2P,Grocery,Android,4G,18,Sunday,1
+TXN0000012492,P2P,Food,iOS,4G,22,Sunday,1
+TXN0000012529,Recharge,Grocery,Android,4G,11,Thursday,0
+TXN0000012622,P2M,Healthcare,Android,4G,18,Saturday,1
+TXN0000012671,P2P,Shopping,iOS,4G,11,Wednesday,0
+TXN0000012815,Bill Payment,Other,Android,5G,11,Wednesday,0
+TXN0000012955,P2P,Utilities,Android,3G,1,Monday,0
+TXN0000013067,Bill Payment,Healthcare,Web,4G,20,Monday,0
+TXN0000013084,P2M,Shopping,Android,3G,17,Sunday,1
+TXN0000013137,Bill Payment,Shopping,Web,3G,11,Friday,0
+TXN0000013155,P2P,Other,Android,4G,5,Tuesday,0
+TXN0000013280,P2P,Shopping,Android,4G,20,Thursday,0
+TXN0000013328,P2M,Entertainment,Android,4G,15,Sunday,1
+TXN0000013523,P2P,Healthcare,iOS,5G,7,Sunday,1
+TXN0000013552,Bill Payment,Food,Android,4G,11,Saturday,1
+TXN0000013650,P2P,Entertainment,iOS,WiFi,16,Thursday,0
+TXN0000013663,P2P,Food,Android,4G,19,Saturday,1
+TXN0000013695,P2M,Grocery,Android,5G,12,Tuesday,0
+TXN0000013754,Bill Payment,Food,Android,5G,12,Friday,0
+TXN0000013796,P2P,Utilities,Web,5G,3,Sunday,1
+TXN0000013818,P2M,Shopping,Android,4G,15,Thursday,0
+TXN0000013837,P2P,Grocery,Android,4G,16,Thursday,0
+TXN0000013859,P2M,Other,Android,5G,16,Saturday,1
+TXN0000013956,P2P,Entertainment,Web,WiFi,18,Saturday,1
+TXN0000014001,P2P,Food,iOS,4G,10,Wednesday,0
+TXN0000014054,P2M,Shopping,Web,4G,21,Sunday,1
+TXN0000014152,P2P,Education,iOS,4G,16,Saturday,1
+TXN0000014299,P2M,Transport,Android,WiFi,17,Friday,0
+TXN0000014343,P2P,Fuel,Android,4G,21,Saturday,1
+TXN0000014431,P2M,Entertainment,Web,3G,14,Friday,0
+TXN0000014439,P2P,Shopping,iOS,WiFi,18,Tuesday,0
+TXN0000014520,P2P,Fuel,Android,4G,14,Tuesday,0
+TXN0000014534,P2P,Food,iOS,4G,0,Thursday,0
+TXN0000014557,P2M,Food,Android,4G,19,Sunday,1
+TXN0000014623,P2P,Other,Android,4G,11,Friday,0
+TXN0000014709,P2M,Transport,Android,4G,2,Friday,0
+TXN0000014912,P2P,Utilities,Android,4G,21,Monday,0
+TXN0000015068,P2P,Other,Android,WiFi,10,Friday,0
+TXN0000015126,P2M,Grocery,iOS,4G,13,Friday,0
+TXN0000015157,P2P,Grocery,Android,4G,18,Tuesday,0
+TXN0000015159,P2P,Food,Android,5G,12,Friday,0
+TXN0000015231,Bill Payment,Utilities,Android,4G,11,Tuesday,0
+TXN0000015273,Bill Payment,Grocery,iOS,4G,8,Monday,0
+TXN0000015296,P2M,Utilities,Web,4G,16,Tuesday,0
+TXN0000015396,P2P,Fuel,Android,4G,7,Friday,0
+TXN0000015502,P2P,Entertainment,Android,4G,20,Friday,0
+TXN0000015918,P2P,Healthcare,Web,4G,11,Friday,0
+TXN0000015944,P2M,Utilities,Android,5G,8,Friday,0
+TXN0000015974,P2P,Utilities,Android,5G,19,Thursday,0
+TXN0000016007,P2P,Grocery,Android,4G,19,Thursday,0
+TXN0000016281,P2P,Utilities,Android,3G,12,Monday,0
+TXN0000016341,Bill Payment,Other,Android,5G,21,Tuesday,0
+TXN0000016350,P2M,Entertainment,iOS,3G,21,Saturday,1
+TXN0000016506,P2P,Utilities,iOS,4G,11,Sunday,1
+TXN0000016603,P2P,Shopping,iOS,WiFi,9,Monday,0
+TXN0000016701,P2P,Transport,Android,4G,15,Friday,0
+TXN0000016755,P2P,Shopping,Android,5G,16,Sunday,1
+TXN0000016799,P2M,Grocery,Android,4G,18,Thursday,0
+TXN0000016895,P2M,Healthcare,iOS,4G,10,Sunday,1
+TXN0000017025,P2M,Education,Web,3G,21,Monday,0
+TXN0000017302,P2P,Entertainment,Android,4G,8,Saturday,1
+TXN0000017337,P2M,Utilities,Android,5G,21,Saturday,1
+TXN0000017707,P2P,Grocery,Android,3G,7,Sunday,1
+TXN0000017766,P2M,Food,Android,5G,21,Wednesday,0
+TXN0000017968,P2M,Food,Android,5G,19,Tuesday,0
+TXN0000017979,P2M,Food,Web,4G,9,Sunday,1
+TXN0000018382,P2P,Shopping,iOS,5G,18,Sunday,1
+TXN0000018420,Bill Payment,Utilities,Android,4G,16,Sunday,1
+TXN0000018564,P2M,Food,Android,3G,20,Friday,0
+TXN0000018598,Bill Payment,Utilities,iOS,4G,11,Saturday,1
+TXN0000019838,P2P,Utilities,Android,5G,23,Tuesday,0
+TXN0000019927,Bill Payment,Food,Android,4G,7,Wednesday,0
+TXN0000019954,P2M,Food,Android,4G,8,Saturday,1
+TXN0000020226,P2P,Food,iOS,4G,18,Sunday,1
+TXN0000020282,P2P,Entertainment,Android,5G,19,Thursday,0
+TXN0000020535,Bill Payment,Education,Android,WiFi,19,Saturday,1
+TXN0000020578,P2P,Grocery,Android,4G,17,Monday,0
+TXN0000020622,P2P,Other,Android,4G,12,Wednesday,0
+TXN0000020630,P2M,Food,Android,5G,15,Wednesday,0
+TXN0000020803,P2M,Food,Android,4G,13,Sunday,1
+TXN0000020811,P2M,Food,iOS,5G,11,Thursday,0
+TXN0000020948,Bill Payment,Food,Android,WiFi,20,Thursday,0
+TXN0000021164,P2P,Transport,Web,4G,20,Monday,0
+TXN0000021296,P2M,Grocery,Android,4G,11,Wednesday,0
+TXN0000021376,P2P,Healthcare,iOS,4G,17,Tuesday,0
+TXN0000021412,P2P,Grocery,Android,5G,9,Tuesday,0
+TXN0000021610,P2M,Food,Android,4G,8,Sunday,1
+TXN0000022050,P2P,Grocery,Android,4G,20,Wednesday,0
+TXN0000022058,P2P,Food,Web,4G,15,Saturday,1
+TXN0000022067,Bill Payment,Food,Web,4G,18,Sunday,1
+TXN0000022101,P2M,Grocery,Android,4G,15,Tuesday,0
+TXN0000022325,P2M,Other,Android,3G,10,Friday,0
+TXN0000022646,P2M,Other,Android,5G,22,Tuesday,0
+TXN0000022664,P2P,Utilities,Android,5G,16,Thursday,0
+TXN0000022734,P2M,Fuel,Android,4G,18,Friday,0
+TXN0000023141,Bill Payment,Utilities,Android,4G,9,Sunday,1
+TXN0000023241,P2P,Other,Android,WiFi,17,Friday,0
+TXN0000023318,P2P,Food,Android,4G,15,Thursday,0
+TXN0000023356,Bill Payment,Entertainment,Android,3G,14,Thursday,0
+TXN0000023460,Bill Payment,Food,iOS,4G,19,Thursday,0
+TXN0000023884,Recharge,Healthcare,Android,4G,20,Sunday,1
+TXN0000024019,Recharge,Fuel,iOS,5G,7,Saturday,1
+TXN0000024021,P2P,Shopping,Android,5G,17,Sunday,1
+TXN0000024470,P2P,Transport,Android,4G,19,Wednesday,0
+TXN0000024481,P2P,Entertainment,Android,4G,14,Monday,0
+TXN0000024550,P2P,Shopping,Android,WiFi,22,Thursday,0
+TXN0000024630,P2M,Food,Android,4G,13,Friday,0
+TXN0000024992,P2P,Food,Android,4G,19,Tuesday,0
+TXN0000025216,P2P,Grocery,Android,5G,2,Thursday,0
+TXN0000025384,P2M,Food,Android,4G,21,Monday,0
+TXN0000025469,P2P,Food,Android,5G,21,Monday,0
+TXN0000025555,P2M,Healthcare,Android,4G,18,Friday,0
+TXN0000025661,P2P,Healthcare,Android,5G,21,Wednesday,0
+TXN0000025706,P2P,Healthcare,Android,4G,21,Tuesday,0
+TXN0000025769,P2P,Grocery,Android,5G,20,Wednesday,0
+TXN0000026044,P2M,Utilities,Android,4G,6,Tuesday,0
+TXN0000026149,P2P,Transport,Android,5G,23,Saturday,1
+TXN0000026491,P2P,Shopping,Android,4G,4,Saturday,1
+TXN0000026630,P2P,Utilities,Android,4G,17,Monday,0
+TXN0000026910,Recharge,Utilities,Android,4G,22,Monday,0
+TXN0000027072,Recharge,Grocery,iOS,WiFi,17,Saturday,1
+TXN0000027262,P2P,Fuel,Android,4G,16,Friday,0
+TXN0000027368,P2P,Fuel,Android,5G,20,Sunday,1
+TXN0000027434,P2M,Shopping,Web,5G,13,Thursday,0
+TXN0000027460,P2P,Other,iOS,WiFi,10,Monday,0
+TXN0000027690,Bill Payment,Fuel,iOS,WiFi,7,Sunday,1
+TXN0000027824,P2P,Shopping,Android,4G,10,Saturday,1
+TXN0000027901,P2P,Food,Android,4G,19,Thursday,0
+TXN0000027955,P2P,Grocery,Android,4G,23,Saturday,1
+TXN0000027971,Recharge,Fuel,iOS,4G,14,Thursday,0
+TXN0000028242,P2P,Grocery,Android,4G,18,Saturday,1
+TXN0000028279,P2M,Entertainment,Android,4G,11,Thursday,0
+TXN0000028321,Bill Payment,Food,iOS,4G,13,Sunday,1
+TXN0000028448,P2P,Grocery,Android,4G,15,Wednesday,0
+TXN0000028511,P2P,Healthcare,Android,5G,20,Thursday,0
+TXN0000028574,P2P,Fuel,Android,4G,2,Monday,0
+TXN0000028629,Bill Payment,Entertainment,Android,4G,9,Sunday,1
+TXN0000028698,P2P,Grocery,iOS,3G,15,Wednesday,0
+TXN0000028863,P2M,Transport,Android,4G,8,Monday,0
+TXN0000029160,P2P,Other,Android,4G,16,Wednesday,0
+TXN0000029209,Bill Payment,Other,Web,5G,17,Tuesday,0
+TXN0000029414,P2P,Grocery,Android,4G,11,Saturday,1
+TXN0000029465,P2P,Grocery,Android,5G,19,Sunday,1
+TXN0000029486,P2P,Shopping,Android,5G,11,Sunday,1
+TXN0000029589,P2P,Education,Android,WiFi,14,Tuesday,0
+TXN0000029676,P2P,Transport,Android,4G,19,Sunday,1
+TXN0000029775,Recharge,Grocery,Android,4G,10,Tuesday,0
+TXN0000030077,P2P,Grocery,Android,3G,0,Tuesday,0
+TXN0000030158,P2P,Grocery,Android,4G,7,Friday,0
+TXN0000030211,P2M,Grocery,Android,WiFi,12,Tuesday,0
+TXN0000030232,Recharge,Grocery,Android,WiFi,23,Thursday,0
+TXN0000030382,P2M,Transport,Android,4G,7,Wednesday,0
+TXN0000030524,P2P,Entertainment,Android,4G,21,Friday,0
+TXN0000030625,Bill Payment,Fuel,iOS,4G,14,Wednesday,0
+TXN0000030968,P2M,Fuel,Android,5G,17,Thursday,0
+TXN0000031171,P2M,Shopping,Android,4G,1,Wednesday,0
+TXN0000031236,P2P,Entertainment,Android,4G,15,Saturday,1
+TXN0000031440,P2P,Transport,Android,WiFi,11,Thursday,0
+TXN0000031753,P2M,Fuel,iOS,4G,8,Tuesday,0
+TXN0000031778,P2P,Grocery,Android,5G,15,Sunday,1
+TXN0000031792,P2M,Food,Android,5G,21,Tuesday,0
+TXN0000031838,P2M,Shopping,Android,5G,15,Tuesday,0
+TXN0000031890,Bill Payment,Food,iOS,4G,2,Sunday,1
+TXN0000031901,P2M,Other,Android,5G,17,Wednesday,0
+TXN0000032250,P2M,Grocery,Android,4G,22,Thursday,0
+TXN0000032267,P2P,Transport,Android,4G,21,Wednesday,0
+TXN0000032400,P2M,Other,Android,4G,13,Thursday,0
+TXN0000032435,P2M,Other,Android,4G,19,Friday,0
+TXN0000032441,P2P,Other,Android,WiFi,13,Saturday,1
+TXN0000032924,P2P,Grocery,Android,4G,1,Sunday,1
+TXN0000033204,Recharge,Grocery,Android,4G,10,Friday,0
+TXN0000033484,Bill Payment,Education,Android,4G,18,Thursday,0
+TXN0000033644,Recharge,Grocery,Android,5G,12,Sunday,1
+TXN0000033665,P2M,Grocery,iOS,4G,17,Friday,0
+TXN0000034091,P2M,Shopping,Android,5G,19,Sunday,1
+TXN0000034292,P2M,Other,Android,4G,18,Monday,0
+TXN0000034339,P2P,Shopping,Android,4G,20,Sunday,1
+TXN0000034407,P2P,Fuel,Android,4G,13,Wednesday,0
+TXN0000034427,P2P,Transport,Android,WiFi,22,Friday,0
+TXN0000034439,P2P,Food,iOS,5G,15,Friday,0
+TXN0000034482,P2M,Utilities,Android,5G,18,Tuesday,0
+TXN0000034508,Recharge,Shopping,Android,4G,19,Friday,0
+TXN0000034525,P2P,Grocery,Android,4G,13,Wednesday,0
+TXN0000034602,P2M,Grocery,Android,4G,6,Monday,0
+TXN0000034692,P2P,Food,Android,5G,21,Monday,0
+TXN0000034791,P2P,Transport,Android,5G,16,Sunday,1
+TXN0000034795,Bill Payment,Entertainment,Android,WiFi,17,Monday,0
+TXN0000034914,Bill Payment,Entertainment,Android,4G,16,Thursday,0
+TXN0000035012,P2M,Food,Android,4G,12,Friday,0
+TXN0000035013,P2M,Entertainment,Android,WiFi,11,Sunday,1
+TXN0000035112,P2M,Shopping,Android,4G,17,Wednesday,0
+TXN0000035145,P2M,Food,Android,4G,18,Friday,0
+TXN0000035158,P2M,Other,Web,3G,13,Saturday,1
+TXN0000035438,P2M,Transport,Android,4G,21,Saturday,1
+TXN0000035567,P2P,Education,Android,5G,14,Monday,0
+TXN0000035605,P2M,Utilities,iOS,4G,13,Wednesday,0
+TXN0000035693,P2P,Shopping,Android,5G,0,Saturday,1
+TXN0000035712,P2P,Healthcare,Android,5G,17,Saturday,1
+TXN0000035829,Bill Payment,Food,Android,4G,21,Sunday,1
+TXN0000035980,P2P,Food,Android,3G,7,Monday,0
+TXN0000036217,P2M,Utilities,Android,4G,15,Saturday,1
+TXN0000036255,P2P,Transport,Web,4G,20,Friday,0
+TXN0000036294,P2M,Shopping,Android,4G,20,Thursday,0
+TXN0000036297,P2M,Food,Android,5G,12,Sunday,1
+TXN0000036579,Bill Payment,Grocery,Android,5G,4,Thursday,0
+TXN0000036659,P2M,Food,iOS,4G,0,Wednesday,0
+TXN0000036727,P2P,Other,Web,4G,22,Monday,0
+TXN0000036750,P2P,Shopping,Android,WiFi,22,Friday,0
+TXN0000036852,P2P,Fuel,iOS,4G,19,Wednesday,0
+TXN0000036962,P2P,Fuel,Web,3G,2,Thursday,0
+TXN0000037205,P2M,Utilities,Android,5G,17,Tuesday,0
+TXN0000037284,Bill Payment,Transport,Android,4G,13,Thursday,0
+TXN0000037768,P2P,Other,Android,3G,12,Saturday,1
+TXN0000037899,P2P,Grocery,Android,5G,22,Tuesday,0
+TXN0000038490,P2P,Fuel,iOS,5G,21,Thursday,0
+TXN0000038684,P2M,Healthcare,Android,4G,15,Sunday,1
+TXN0000038972,Bill Payment,Food,Android,5G,10,Wednesday,0
+TXN0000039011,P2P,Fuel,iOS,4G,21,Monday,0
+TXN0000039031,Bill Payment,Grocery,Android,4G,16,Sunday,1
+TXN0000039077,P2P,Fuel,Android,5G,16,Monday,0
+TXN0000039181,Bill Payment,Shopping,Android,4G,17,Friday,0
+TXN0000039260,P2M,Grocery,Android,4G,21,Sunday,1
+TXN0000039422,Bill Payment,Other,iOS,WiFi,18,Sunday,1
+TXN0000039433,Bill Payment,Grocery,iOS,5G,18,Sunday,1
+TXN0000039473,P2P,Other,Android,4G,7,Thursday,0
+TXN0000039580,Bill Payment,Utilities,iOS,4G,13,Sunday,1
+TXN0000039647,P2M,Fuel,Android,5G,19,Saturday,1
+TXN0000039853,P2P,Other,Android,4G,11,Thursday,0
+TXN0000039899,P2P,Fuel,Android,4G,16,Friday,0
+TXN0000039937,Bill Payment,Utilities,Android,4G,18,Tuesday,0
+TXN0000040332,P2M,Utilities,Web,4G,19,Monday,0
+TXN0000040368,Bill Payment,Grocery,iOS,4G,9,Sunday,1
+TXN0000040390,P2M,Grocery,Android,5G,13,Monday,0
+TXN0000040411,Recharge,Transport,Android,WiFi,9,Tuesday,0
+TXN0000040420,P2M,Transport,Android,3G,18,Saturday,1
+TXN0000040533,P2P,Transport,Android,5G,16,Saturday,1
+TXN0000040555,Bill Payment,Grocery,iOS,5G,22,Tuesday,0
+TXN0000040599,Bill Payment,Utilities,Android,4G,14,Friday,0
+TXN0000040774,P2M,Fuel,Android,WiFi,1,Saturday,1
+TXN0000040794,P2P,Transport,Android,4G,16,Friday,0
+TXN0000040821,Bill Payment,Grocery,Android,4G,16,Monday,0
+TXN0000040828,P2P,Food,iOS,4G,21,Friday,0
+TXN0000040999,P2M,Entertainment,Android,5G,13,Friday,0
+TXN0000041041,P2P,Fuel,iOS,5G,9,Friday,0
+TXN0000041117,P2P,Food,Android,3G,19,Thursday,0
+TXN0000041399,P2M,Entertainment,Android,4G,20,Wednesday,0
+TXN0000041440,P2M,Utilities,Android,5G,17,Monday,0
+TXN0000041448,P2M,Utilities,Android,3G,18,Saturday,1
+TXN0000041519,P2M,Food,iOS,4G,13,Sunday,1
+TXN0000041998,P2M,Grocery,Android,5G,0,Monday,0
+TXN0000042075,Recharge,Healthcare,iOS,4G,23,Friday,0
+TXN0000042269,P2M,Entertainment,iOS,4G,12,Thursday,0
+TXN0000042459,Bill Payment,Transport,Android,4G,17,Saturday,1
+TXN0000042782,P2P,Healthcare,Android,4G,9,Thursday,0
+TXN0000042808,P2M,Utilities,Android,4G,13,Friday,0
+TXN0000042889,P2M,Food,Android,5G,11,Thursday,0
+TXN0000042898,Recharge,Food,Android,5G,7,Sunday,1
+TXN0000043018,P2P,Other,Android,5G,8,Thursday,0
+TXN0000043274,P2M,Fuel,Android,4G,9,Friday,0
+TXN0000043415,P2M,Transport,Android,4G,5,Tuesday,0
+TXN0000043458,P2P,Grocery,Android,5G,16,Wednesday,0
+TXN0000043531,P2P,Shopping,Android,4G,2,Thursday,0
+TXN0000043647,P2P,Utilities,Android,5G,13,Sunday,1
+TXN0000043688,P2P,Transport,Android,4G,9,Tuesday,0
+TXN0000043701,P2M,Grocery,Android,3G,8,Sunday,1
+TXN0000043731,Bill Payment,Grocery,Android,4G,1,Thursday,0
+TXN0000043914,P2P,Fuel,Android,5G,13,Tuesday,0
+TXN0000043919,P2P,Healthcare,Android,4G,21,Tuesday,0
+TXN0000044355,Bill Payment,Food,Android,4G,17,Monday,0
+TXN0000044428,P2P,Transport,Android,4G,21,Thursday,0
+TXN0000044447,P2P,Grocery,Android,4G,13,Monday,0
+TXN0000044541,Bill Payment,Grocery,Android,4G,20,Monday,0
+TXN0000044623,P2P,Grocery,iOS,4G,19,Friday,0
+TXN0000044713,P2P,Fuel,Android,4G,10,Friday,0
+TXN0000044956,P2M,Shopping,iOS,5G,19,Monday,0
+TXN0000045256,P2M,Food,Web,4G,20,Thursday,0
+TXN0000045271,P2P,Shopping,Android,5G,10,Sunday,1
+TXN0000045275,P2P,Utilities,Android,4G,19,Friday,0
+TXN0000045295,P2P,Shopping,Android,4G,17,Saturday,1
+TXN0000045316,P2P,Food,Android,4G,11,Saturday,1
+TXN0000045340,P2P,Healthcare,iOS,4G,12,Monday,0
+TXN0000045427,P2P,Grocery,Android,4G,17,Friday,0
+TXN0000045451,P2M,Grocery,Android,WiFi,11,Thursday,0
+TXN0000045551,P2P,Shopping,Android,4G,19,Tuesday,0
+TXN0000045555,P2P,Grocery,iOS,4G,21,Saturday,1
+TXN0000045962,Bill Payment,Other,iOS,5G,13,Friday,0
+TXN0000046034,P2P,Grocery,Web,5G,12,Friday,0
+TXN0000046111,P2P,Healthcare,iOS,4G,12,Saturday,1
+TXN0000046147,P2M,Utilities,Android,3G,12,Saturday,1
+TXN0000046342,P2P,Food,Web,3G,16,Monday,0
+TXN0000046348,P2P,Utilities,Android,4G,16,Wednesday,0
+TXN0000046477,P2M,Shopping,iOS,WiFi,9,Tuesday,0
+TXN0000046491,P2M,Fuel,Android,4G,18,Thursday,0
+TXN0000046617,P2M,Shopping,iOS,4G,19,Friday,0
+TXN0000047252,P2P,Food,Android,4G,21,Friday,0
+TXN0000047845,P2M,Healthcare,iOS,4G,18,Wednesday,0
+TXN0000048048,Bill Payment,Shopping,Android,3G,14,Friday,0
+TXN0000048245,P2P,Other,iOS,4G,14,Wednesday,0
+TXN0000048289,Bill Payment,Grocery,Android,4G,21,Tuesday,0
+TXN0000048349,P2P,Grocery,Android,4G,18,Tuesday,0
+TXN0000048396,P2P,Shopping,iOS,WiFi,13,Saturday,1
+TXN0000048473,Bill Payment,Grocery,Android,4G,18,Thursday,0
+TXN0000048580,P2P,Other,Android,WiFi,20,Thursday,0
+TXN0000048655,P2P,Shopping,Android,4G,13,Saturday,1
+TXN0000049121,P2P,Grocery,iOS,4G,11,Tuesday,0
+TXN0000049155,P2P,Healthcare,Android,4G,12,Monday,0
+TXN0000049312,P2M,Food,Android,4G,18,Saturday,1
+TXN0000049328,P2P,Healthcare,Android,4G,19,Tuesday,0
+TXN0000049406,P2M,Grocery,Android,5G,11,Sunday,1
+TXN0000049462,P2M,Food,iOS,4G,4,Saturday,1
+TXN0000049715,P2M,Food,Android,5G,7,Saturday,1
+TXN0000049978,P2P,Utilities,Android,4G,8,Friday,0
+TXN0000050208,Bill Payment,Fuel,Android,4G,22,Sunday,1
+TXN0000050216,P2P,Grocery,Android,5G,12,Tuesday,0
+TXN0000050400,P2M,Grocery,Android,WiFi,19,Tuesday,0
+TXN0000050435,P2M,Utilities,iOS,4G,11,Tuesday,0
+TXN0000050551,P2P,Shopping,Android,5G,7,Friday,0
+TXN0000050557,P2P,Grocery,Android,5G,12,Monday,0
+TXN0000050596,P2P,Other,Web,4G,11,Saturday,1
+TXN0000050732,P2M,Entertainment,Android,4G,9,Thursday,0
+TXN0000050737,Bill Payment,Grocery,Android,4G,16,Friday,0
+TXN0000050980,P2M,Transport,Android,4G,15,Saturday,1
+TXN0000050993,Recharge,Food,Android,WiFi,16,Monday,0
+TXN0000051069,P2M,Transport,Android,5G,10,Tuesday,0
+TXN0000051111,Bill Payment,Food,Android,5G,11,Saturday,1
+TXN0000051146,P2P,Fuel,Android,WiFi,22,Thursday,0
+TXN0000051285,P2M,Entertainment,Android,4G,10,Thursday,0
+TXN0000051336,P2P,Shopping,iOS,4G,17,Tuesday,0
+TXN0000051514,P2P,Food,iOS,4G,16,Wednesday,0
+TXN0000051788,P2M,Transport,Android,4G,10,Wednesday,0
+TXN0000051809,P2M,Entertainment,Android,4G,12,Friday,0
+TXN0000052031,P2M,Transport,Android,5G,6,Monday,0
+TXN0000052040,P2P,Other,Android,5G,15,Sunday,1
+TXN0000052044,P2P,Other,Android,5G,13,Tuesday,0
+TXN0000052057,P2M,Food,Android,4G,21,Sunday,1
+TXN0000052419,P2M,Entertainment,Android,4G,8,Wednesday,0
+TXN0000052491,P2P,Shopping,Android,4G,14,Friday,0
+TXN0000052517,Bill Payment,Shopping,Android,3G,16,Tuesday,0
+TXN0000052569,P2P,Grocery,Android,4G,18,Friday,0
+TXN0000052705,P2M,Grocery,Android,WiFi,20,Tuesday,0
+TXN0000052913,P2P,Other,iOS,4G,9,Monday,0
+TXN0000052934,Bill Payment,Grocery,Web,WiFi,8,Thursday,0
+TXN0000052937,Recharge,Fuel,Android,4G,18,Saturday,1
+TXN0000052949,P2P,Utilities,Android,4G,13,Saturday,1
+TXN0000052975,Bill Payment,Other,Android,4G,22,Tuesday,0
+TXN0000053105,P2M,Utilities,Android,4G,10,Wednesday,0
+TXN0000053109,P2M,Healthcare,Android,4G,12,Sunday,1
+TXN0000053300,P2M,Entertainment,iOS,4G,16,Wednesday,0
+TXN0000053330,P2P,Food,iOS,5G,23,Wednesday,0
+TXN0000053418,P2P,Transport,Android,4G,11,Thursday,0
+TXN0000053618,P2M,Fuel,Web,5G,12,Thursday,0
+TXN0000053651,P2M,Grocery,Android,5G,12,Thursday,0
+TXN0000053682,P2P,Fuel,Android,4G,22,Sunday,1
+TXN0000053707,P2P,Food,Android,WiFi,21,Saturday,1
+TXN0000053911,P2M,Entertainment,Android,4G,22,Sunday,1
+TXN0000054028,P2P,Transport,Android,WiFi,12,Tuesday,0
+TXN0000054201,P2P,Fuel,Android,WiFi,17,Sunday,1
+TXN0000054421,P2P,Grocery,Android,5G,12,Tuesday,0
+TXN0000054520,Recharge,Food,Android,WiFi,20,Sunday,1
+TXN0000054550,P2P,Fuel,Android,4G,20,Monday,0
+TXN0000054835,Bill Payment,Grocery,iOS,3G,15,Wednesday,0
+TXN0000054846,P2P,Fuel,iOS,WiFi,19,Saturday,1
+TXN0000054904,Recharge,Grocery,Android,4G,21,Monday,0
+TXN0000055025,P2P,Utilities,Android,5G,10,Sunday,1
+TXN0000055182,P2M,Food,Android,4G,14,Friday,0
+TXN0000055303,P2M,Grocery,Android,5G,19,Friday,0
+TXN0000055392,P2M,Healthcare,Android,4G,19,Sunday,1
+TXN0000055625,P2P,Shopping,Android,4G,18,Wednesday,0
+TXN0000055724,Bill Payment,Grocery,Android,4G,13,Thursday,0
+TXN0000055772,P2P,Grocery,iOS,WiFi,8,Monday,0
+TXN0000055780,Bill Payment,Utilities,Android,4G,9,Sunday,1
+TXN0000055971,P2M,Utilities,Android,4G,18,Friday,0
+TXN0000055975,P2P,Education,Android,4G,16,Monday,0
+TXN0000056138,P2M,Utilities,Android,4G,8,Saturday,1
+TXN0000056181,P2M,Food,iOS,4G,12,Tuesday,0
+TXN0000056245,P2M,Fuel,Web,5G,18,Wednesday,0
+TXN0000056256,P2P,Food,Web,4G,12,Tuesday,0
+TXN0000056312,P2M,Education,iOS,WiFi,15,Friday,0
+TXN0000056352,Bill Payment,Education,iOS,4G,7,Monday,0
+TXN0000056368,P2P,Grocery,Android,4G,14,Tuesday,0
+TXN0000056512,P2M,Healthcare,Android,WiFi,14,Thursday,0
+TXN0000056607,P2P,Shopping,Android,4G,16,Tuesday,0
+TXN0000056980,P2M,Shopping,Android,4G,18,Sunday,1
+TXN0000057117,P2P,Fuel,Android,3G,20,Tuesday,0
+TXN0000057182,P2P,Transport,Web,5G,21,Monday,0
+TXN0000057237,P2P,Food,Android,5G,20,Saturday,1
+TXN0000057259,P2P,Entertainment,Android,3G,8,Tuesday,0
+TXN0000057359,P2M,Other,Android,4G,21,Saturday,1
+TXN0000057525,Bill Payment,Healthcare,Android,4G,11,Tuesday,0
+TXN0000058129,P2P,Entertainment,Android,5G,16,Wednesday,0
+TXN0000058137,P2M,Other,Android,5G,0,Sunday,1
+TXN0000058238,P2P,Transport,Android,WiFi,18,Monday,0
+TXN0000058299,P2M,Food,iOS,4G,19,Tuesday,0
+TXN0000058338,P2P,Shopping,Android,5G,21,Wednesday,0
+TXN0000058447,P2M,Shopping,Web,5G,13,Friday,0
+TXN0000058579,P2M,Grocery,Android,4G,21,Saturday,1
+TXN0000058816,P2M,Entertainment,Android,4G,2,Monday,0
+TXN0000059009,P2P,Transport,Android,4G,14,Thursday,0
+TXN0000059036,Bill Payment,Other,iOS,3G,17,Sunday,1
+TXN0000059353,P2M,Shopping,Android,3G,17,Wednesday,0
+TXN0000059410,Recharge,Healthcare,Android,5G,22,Monday,0
+TXN0000059550,P2M,Grocery,Android,4G,12,Thursday,0
+TXN0000059574,P2M,Shopping,Android,4G,21,Saturday,1
+TXN0000060026,P2P,Grocery,Android,4G,5,Saturday,1
+TXN0000060036,Bill Payment,Other,iOS,3G,20,Saturday,1
+TXN0000060463,P2M,Utilities,Android,4G,17,Saturday,1
+TXN0000060648,Bill Payment,Other,Android,4G,12,Tuesday,0
+TXN0000060673,P2P,Food,Android,4G,14,Tuesday,0
+TXN0000060728,P2P,Other,iOS,4G,16,Thursday,0
+TXN0000060746,P2P,Grocery,Web,4G,12,Saturday,1
+TXN0000060787,P2M,Utilities,Android,3G,20,Thursday,0
+TXN0000060814,P2M,Fuel,Android,5G,14,Tuesday,0
+TXN0000060903,P2M,Fuel,Web,5G,15,Monday,0
+TXN0000060961,P2P,Food,Android,4G,20,Sunday,1
+TXN0000061508,P2M,Food,iOS,WiFi,3,Tuesday,0
+TXN0000061815,P2M,Healthcare,Android,5G,12,Monday,0
+TXN0000061891,P2M,Food,Android,WiFi,6,Wednesday,0
+TXN0000062048,P2P,Grocery,Android,5G,19,Friday,0
+TXN0000062085,P2M,Other,iOS,5G,20,Sunday,1
+TXN0000062171,P2M,Healthcare,Android,4G,17,Monday,0
+TXN0000062463,P2P,Food,Web,WiFi,12,Friday,0
+TXN0000062548,P2P,Entertainment,Android,5G,20,Sunday,1
+TXN0000062867,P2P,Transport,Android,4G,8,Friday,0
+TXN0000063009,P2P,Fuel,iOS,4G,17,Monday,0
+TXN0000063035,P2P,Fuel,Android,5G,18,Sunday,1
+TXN0000063094,P2P,Fuel,Web,4G,20,Sunday,1
+TXN0000063098,P2P,Grocery,Android,WiFi,16,Thursday,0
+TXN0000063146,P2P,Grocery,iOS,5G,13,Wednesday,0
+TXN0000063223,P2P,Food,Android,4G,19,Friday,0
+TXN0000063375,P2P,Shopping,Android,WiFi,11,Sunday,1
+TXN0000063772,P2M,Fuel,Android,4G,9,Sunday,1
+TXN0000063874,P2P,Education,Android,4G,13,Saturday,1
+TXN0000064036,P2P,Grocery,iOS,5G,17,Friday,0
+TXN0000064073,Bill Payment,Grocery,iOS,4G,10,Thursday,0
+TXN0000064159,P2M,Entertainment,Android,4G,13,Sunday,1
+TXN0000064186,P2P,Entertainment,Android,3G,0,Friday,0
+TXN0000064258,P2P,Grocery,iOS,4G,18,Friday,0
+TXN0000064438,P2P,Education,Android,WiFi,17,Saturday,1
+TXN0000064789,P2P,Entertainment,Android,5G,19,Saturday,1
+TXN0000064870,Bill Payment,Utilities,Android,5G,8,Tuesday,0
+TXN0000064914,P2P,Entertainment,iOS,4G,20,Saturday,1
+TXN0000064940,P2P,Transport,iOS,WiFi,11,Tuesday,0
+TXN0000064970,P2P,Grocery,Android,4G,8,Monday,0
+TXN0000065173,P2P,Shopping,Android,4G,18,Sunday,1
+TXN0000065610,P2P,Shopping,Android,5G,21,Saturday,1
+TXN0000065699,Bill Payment,Utilities,Android,4G,21,Saturday,1
+TXN0000065708,Bill Payment,Other,Android,4G,11,Tuesday,0
+TXN0000065758,Recharge,Entertainment,Android,5G,16,Sunday,1
+TXN0000065855,P2M,Grocery,iOS,4G,21,Tuesday,0
+TXN0000065906,P2M,Other,Android,5G,15,Saturday,1
+TXN0000065932,P2P,Fuel,Android,5G,19,Saturday,1
+TXN0000066326,P2M,Transport,Android,4G,15,Wednesday,0
+TXN0000066330,P2M,Shopping,iOS,4G,8,Saturday,1
+TXN0000066379,P2M,Shopping,Android,4G,18,Friday,0
+TXN0000066401,Recharge,Transport,Android,4G,18,Saturday,1
+TXN0000066530,P2P,Grocery,iOS,4G,21,Wednesday,0
+TXN0000066586,P2P,Shopping,Android,4G,21,Thursday,0
+TXN0000066722,P2M,Shopping,Android,5G,17,Saturday,1
+TXN0000066825,P2M,Food,Android,4G,22,Thursday,0
+TXN0000066854,P2P,Grocery,Android,5G,3,Monday,0
+TXN0000066935,P2P,Grocery,Android,4G,16,Friday,0
+TXN0000067045,P2M,Grocery,Android,WiFi,7,Wednesday,0
+TXN0000067150,P2M,Grocery,Android,5G,17,Wednesday,0
+TXN0000067227,P2P,Entertainment,Android,5G,12,Tuesday,0
+TXN0000067322,P2P,Other,Android,5G,18,Tuesday,0
+TXN0000067503,P2P,Grocery,iOS,4G,12,Tuesday,0
+TXN0000067942,Bill Payment,Shopping,Android,5G,15,Monday,0
+TXN0000068061,P2M,Grocery,Android,5G,19,Sunday,1
+TXN0000068068,P2P,Grocery,Android,4G,12,Sunday,1
+TXN0000068075,P2P,Utilities,Android,5G,23,Tuesday,0
+TXN0000068105,Bill Payment,Grocery,Android,4G,19,Thursday,0
+TXN0000068239,P2M,Entertainment,Android,3G,10,Monday,0
+TXN0000068332,P2P,Fuel,Android,5G,18,Sunday,1
+TXN0000068529,P2M,Grocery,Android,5G,10,Wednesday,0
+TXN0000068610,P2M,Transport,Android,4G,19,Tuesday,0
+TXN0000068963,P2M,Grocery,Android,5G,9,Thursday,0
+TXN0000069509,P2P,Grocery,Android,4G,17,Monday,0
+TXN0000069583,P2P,Entertainment,Android,4G,12,Saturday,1
+TXN0000069585,P2M,Healthcare,iOS,5G,12,Wednesday,0
+TXN0000070005,P2P,Grocery,Android,4G,17,Saturday,1
+TXN0000070074,P2P,Grocery,Android,4G,13,Friday,0
+TXN0000070138,P2M,Shopping,Android,5G,11,Friday,0
+TXN0000070140,P2P,Fuel,Android,4G,10,Saturday,1
+TXN0000070268,P2P,Other,iOS,5G,5,Thursday,0
+TXN0000070297,P2P,Shopping,Android,4G,19,Sunday,1
+TXN0000070356,P2P,Entertainment,Android,WiFi,12,Tuesday,0
+TXN0000070426,Recharge,Grocery,iOS,4G,11,Friday,0
+TXN0000070535,P2P,Grocery,Android,WiFi,12,Monday,0
+TXN0000070839,P2P,Shopping,Android,5G,10,Wednesday,0
+TXN0000070901,P2P,Entertainment,Android,WiFi,11,Saturday,1
+TXN0000071131,P2P,Education,iOS,5G,8,Friday,0
+TXN0000071255,Recharge,Healthcare,Android,4G,23,Sunday,1
+TXN0000071336,P2M,Grocery,Android,4G,15,Sunday,1
+TXN0000071453,P2P,Grocery,Android,4G,0,Thursday,0
+TXN0000071488,P2P,Shopping,Android,3G,11,Monday,0
+TXN0000071605,P2P,Grocery,Android,5G,17,Saturday,1
+TXN0000071654,P2P,Entertainment,Android,4G,13,Saturday,1
+TXN0000071850,P2P,Other,Android,5G,21,Tuesday,0
+TXN0000071966,P2P,Utilities,Android,4G,19,Wednesday,0
+TXN0000072157,P2P,Utilities,Android,4G,19,Sunday,1
+TXN0000072209,Bill Payment,Other,Web,4G,14,Wednesday,0
+TXN0000072377,Recharge,Fuel,Android,5G,13,Friday,0
+TXN0000072547,P2M,Grocery,Android,4G,11,Monday,0
+TXN0000072675,P2P,Shopping,Android,5G,22,Friday,0
+TXN0000073123,P2M,Utilities,Android,4G,18,Friday,0
+TXN0000073226,Bill Payment,Shopping,Android,4G,13,Friday,0
+TXN0000073246,P2M,Other,Android,4G,19,Saturday,1
+TXN0000073585,P2M,Other,Android,5G,13,Monday,0
+TXN0000073805,P2M,Other,Android,4G,20,Sunday,1
+TXN0000073925,Bill Payment,Healthcare,Android,4G,19,Thursday,0
+TXN0000074013,P2M,Transport,Android,4G,20,Monday,0
+TXN0000074076,Bill Payment,Grocery,Android,4G,0,Wednesday,0
+TXN0000074318,P2M,Grocery,Android,5G,13,Sunday,1
+TXN0000074352,Recharge,Grocery,Android,4G,21,Friday,0
+TXN0000074353,P2P,Other,Android,4G,14,Thursday,0
+TXN0000074516,P2P,Grocery,Android,4G,1,Friday,0
+TXN0000074622,P2P,Fuel,iOS,4G,17,Monday,0
+TXN0000074627,P2P,Shopping,Android,WiFi,17,Friday,0
+TXN0000074818,Bill Payment,Other,Android,5G,9,Saturday,1
+TXN0000074988,P2M,Transport,Android,4G,14,Sunday,1
+TXN0000075006,P2P,Shopping,Android,WiFi,15,Tuesday,0
+TXN0000075106,P2P,Shopping,Android,4G,18,Tuesday,0
+TXN0000075474,Bill Payment,Utilities,Android,4G,10,Wednesday,0
+TXN0000075489,P2M,Transport,Android,4G,18,Saturday,1
+TXN0000075660,Bill Payment,Utilities,Android,5G,12,Saturday,1
+TXN0000075960,P2P,Fuel,Android,WiFi,17,Monday,0
+TXN0000076296,Bill Payment,Food,Android,4G,5,Monday,0
+TXN0000076424,P2M,Grocery,Android,4G,9,Sunday,1
+TXN0000076473,P2M,Utilities,Android,4G,11,Monday,0
+TXN0000076559,P2M,Fuel,Android,4G,11,Wednesday,0
+TXN0000076650,P2P,Food,Android,5G,15,Saturday,1
+TXN0000076687,P2P,Food,Android,3G,14,Monday,0
+TXN0000076859,P2P,Utilities,Android,5G,12,Sunday,1
+TXN0000077095,P2M,Other,iOS,4G,11,Saturday,1
+TXN0000077203,P2P,Healthcare,Android,WiFi,0,Sunday,1
+TXN0000077298,P2P,Transport,Android,3G,18,Saturday,1
+TXN0000077432,Recharge,Entertainment,Android,5G,3,Sunday,1
+TXN0000077444,P2P,Healthcare,Android,4G,18,Tuesday,0
+TXN0000077453,P2P,Utilities,Android,4G,19,Monday,0
+TXN0000077845,P2P,Shopping,Android,4G,22,Monday,0
+TXN0000077888,Bill Payment,Transport,Android,WiFi,18,Wednesday,0
+TXN0000077954,P2M,Transport,Android,4G,11,Monday,0
+TXN0000078064,P2P,Grocery,Android,3G,18,Saturday,1
+TXN0000078185,P2P,Fuel,Android,4G,12,Thursday,0
+TXN0000078315,Bill Payment,Other,iOS,4G,21,Friday,0
+TXN0000078331,P2P,Grocery,Android,4G,21,Monday,0
+TXN0000078680,P2P,Grocery,iOS,4G,18,Sunday,1
+TXN0000078694,P2M,Other,Android,WiFi,0,Friday,0
+TXN0000078745,P2M,Food,Android,5G,15,Sunday,1
+TXN0000078751,P2P,Other,Android,4G,16,Tuesday,0
+TXN0000079075,Bill Payment,Entertainment,Web,4G,18,Saturday,1
+TXN0000079082,Bill Payment,Grocery,Web,4G,19,Friday,0
+TXN0000079599,P2P,Other,Android,4G,13,Monday,0
+TXN0000079615,P2M,Grocery,Android,4G,17,Thursday,0
+TXN0000079641,P2M,Food,iOS,5G,1,Friday,0
+TXN0000079696,P2M,Grocery,Android,4G,17,Saturday,1
+TXN0000079716,Bill Payment,Grocery,Android,5G,20,Monday,0
+TXN0000079849,P2P,Transport,Android,4G,21,Wednesday,0
+TXN0000079880,Bill Payment,Food,Android,4G,17,Saturday,1
+TXN0000079891,P2M,Fuel,Android,5G,21,Saturday,1
+TXN0000080030,P2P,Utilities,iOS,4G,11,Sunday,1
+TXN0000080046,P2M,Other,Android,4G,16,Tuesday,0
+TXN0000080262,P2P,Food,Android,4G,14,Thursday,0
+TXN0000080322,P2M,Other,Android,WiFi,20,Thursday,0
+TXN0000080327,P2M,Utilities,Android,4G,1,Thursday,0
+TXN0000080343,P2P,Entertainment,Android,4G,0,Tuesday,0
+TXN0000080372,P2M,Grocery,Web,5G,7,Thursday,0
+TXN0000080414,P2P,Grocery,iOS,4G,17,Sunday,1
+TXN0000080424,P2M,Healthcare,iOS,4G,11,Sunday,1
+TXN0000080722,P2P,Utilities,iOS,4G,18,Tuesday,0
+TXN0000080915,P2P,Fuel,Android,4G,12,Monday,0
+TXN0000081019,Bill Payment,Grocery,Android,4G,17,Thursday,0
+TXN0000081064,P2P,Food,Web,4G,18,Saturday,1
+TXN0000081229,P2P,Entertainment,Android,5G,17,Sunday,1
+TXN0000081276,P2P,Other,Android,4G,14,Tuesday,0
+TXN0000081290,P2M,Grocery,Android,4G,20,Monday,0
+TXN0000081374,Bill Payment,Entertainment,Android,4G,18,Thursday,0
+TXN0000081621,P2P,Food,Android,4G,10,Monday,0
+TXN0000081628,P2P,Entertainment,Android,4G,18,Thursday,0
+TXN0000081908,P2M,Food,Android,5G,17,Saturday,1
+TXN0000081910,P2P,Food,Android,4G,17,Thursday,0
+TXN0000081916,P2M,Fuel,Android,4G,10,Monday,0
+TXN0000082078,P2P,Entertainment,Android,4G,8,Thursday,0
+TXN0000082091,P2M,Food,Android,WiFi,10,Monday,0
+TXN0000082576,Bill Payment,Other,Android,WiFi,12,Friday,0
+TXN0000082725,Recharge,Entertainment,Android,3G,22,Wednesday,0
+TXN0000082777,P2P,Transport,Android,WiFi,16,Wednesday,0
+TXN0000082859,P2P,Grocery,Android,WiFi,10,Wednesday,0
+TXN0000082976,P2P,Transport,Android,4G,20,Friday,0
+TXN0000083117,Bill Payment,Other,iOS,4G,12,Saturday,1
+TXN0000083466,P2M,Shopping,iOS,4G,10,Thursday,0
+TXN0000083564,P2P,Grocery,Android,4G,21,Friday,0
+TXN0000083580,P2P,Other,Android,4G,20,Sunday,1
+TXN0000083595,P2M,Grocery,iOS,4G,18,Sunday,1
+TXN0000083868,P2M,Entertainment,Android,5G,11,Saturday,1
+TXN0000084047,P2M,Fuel,Android,4G,15,Monday,0
+TXN0000084309,P2P,Entertainment,Android,4G,13,Tuesday,0
+TXN0000084418,P2M,Grocery,Android,4G,20,Wednesday,0
+TXN0000084505,P2P,Fuel,Android,4G,16,Sunday,1
+TXN0000084553,P2P,Shopping,Web,5G,7,Tuesday,0
+TXN0000084559,P2P,Other,Android,4G,10,Friday,0
+TXN0000085065,P2M,Food,Android,5G,12,Thursday,0
+TXN0000085240,P2M,Other,Android,4G,8,Monday,0
+TXN0000085409,P2P,Grocery,Android,4G,21,Friday,0
+TXN0000085430,P2M,Food,Web,4G,11,Thursday,0
+TXN0000085485,P2P,Education,Android,4G,12,Wednesday,0
+TXN0000085711,Recharge,Grocery,Web,5G,19,Thursday,0
+TXN0000085781,P2P,Fuel,Android,4G,19,Saturday,1
+TXN0000085851,P2P,Fuel,Android,4G,21,Wednesday,0
+TXN0000085893,P2M,Transport,Android,WiFi,18,Friday,0
+TXN0000086251,P2M,Grocery,iOS,5G,10,Wednesday,0
+TXN0000086283,P2P,Fuel,Android,4G,16,Tuesday,0
+TXN0000086439,P2M,Shopping,Android,4G,22,Saturday,1
+TXN0000086585,P2P,Shopping,Android,4G,22,Saturday,1
+TXN0000086633,P2P,Fuel,Android,4G,8,Saturday,1
+TXN0000086911,P2M,Healthcare,Android,5G,12,Sunday,1
+TXN0000086934,Bill Payment,Food,Android,4G,13,Friday,0
+TXN0000086954,Bill Payment,Entertainment,Android,4G,6,Friday,0
+TXN0000087069,P2P,Fuel,Android,WiFi,18,Thursday,0
+TXN0000087193,P2P,Entertainment,Android,4G,7,Friday,0
+TXN0000087409,Bill Payment,Food,Android,4G,14,Friday,0
+TXN0000087414,P2P,Entertainment,iOS,3G,11,Thursday,0
+TXN0000087569,Bill Payment,Food,iOS,4G,18,Wednesday,0
+TXN0000087840,Bill Payment,Transport,Android,4G,18,Saturday,1
+TXN0000087895,P2M,Food,Android,5G,18,Wednesday,0
+TXN0000087929,P2P,Grocery,Android,4G,15,Wednesday,0
+TXN0000087998,P2M,Food,Android,5G,14,Saturday,1
+TXN0000088058,P2M,Other,Android,4G,22,Sunday,1
+TXN0000088227,P2M,Grocery,Android,4G,21,Sunday,1
+TXN0000088288,P2M,Entertainment,Android,5G,10,Monday,0
+TXN0000088687,Bill Payment,Fuel,Android,4G,18,Thursday,0
+TXN0000088690,P2P,Healthcare,Web,3G,14,Sunday,1
+TXN0000088897,P2M,Food,Web,4G,22,Tuesday,0
+TXN0000089086,P2P,Transport,Android,4G,21,Friday,0
+TXN0000090063,P2P,Utilities,iOS,5G,16,Monday,0
+TXN0000090120,P2M,Other,Android,4G,11,Sunday,1
+TXN0000090399,P2M,Food,Android,4G,11,Wednesday,0
+TXN0000090435,P2P,Fuel,Android,5G,14,Monday,0
+TXN0000090460,P2P,Other,Android,4G,17,Sunday,1
+TXN0000090496,P2P,Fuel,Android,5G,13,Sunday,1
+TXN0000090522,P2P,Transport,iOS,4G,8,Thursday,0
+TXN0000090532,P2M,Fuel,Android,4G,10,Sunday,1
+TXN0000090938,P2P,Food,Android,4G,7,Saturday,1
+TXN0000091136,P2P,Other,Android,5G,13,Friday,0
+TXN0000091189,P2P,Entertainment,iOS,4G,18,Tuesday,0
+TXN0000091244,Recharge,Utilities,Android,4G,9,Monday,0
+TXN0000091342,Bill Payment,Grocery,Android,4G,11,Monday,0
+TXN0000091446,P2M,Food,Android,4G,14,Thursday,0
+TXN0000091528,P2M,Entertainment,Web,4G,11,Friday,0
+TXN0000092030,P2P,Grocery,Android,4G,17,Saturday,1
+TXN0000092102,P2M,Utilities,Android,5G,10,Monday,0
+TXN0000092258,P2P,Shopping,iOS,4G,18,Thursday,0
+TXN0000092315,P2M,Other,Web,5G,16,Tuesday,0
+TXN0000092499,P2P,Fuel,Android,5G,8,Tuesday,0
+TXN0000092553,Bill Payment,Grocery,iOS,4G,23,Wednesday,0
+TXN0000092773,P2P,Food,Android,3G,22,Monday,0
+TXN0000092827,P2P,Other,Android,4G,19,Tuesday,0
+TXN0000092991,P2M,Utilities,Android,4G,21,Sunday,1
+TXN0000093085,P2M,Grocery,iOS,4G,19,Friday,0
+TXN0000093236,P2P,Shopping,Android,4G,20,Tuesday,0
+TXN0000093495,P2P,Grocery,Android,4G,17,Sunday,1
+TXN0000093542,P2P,Grocery,Android,WiFi,20,Saturday,1
+TXN0000093560,P2M,Healthcare,Android,4G,12,Wednesday,0
+TXN0000093626,Bill Payment,Other,Android,4G,17,Tuesday,0
+TXN0000093640,P2P,Other,Android,5G,17,Friday,0
+TXN0000093833,Bill Payment,Education,Android,3G,9,Saturday,1
+TXN0000093934,P2M,Education,Android,5G,20,Sunday,1
+TXN0000093971,P2P,Healthcare,Android,4G,20,Friday,0
+TXN0000093978,Bill Payment,Other,Android,4G,10,Saturday,1
+TXN0000094061,P2M,Transport,iOS,4G,17,Tuesday,0
+TXN0000094389,P2P,Food,Android,4G,20,Tuesday,0
+TXN0000094571,P2P,Grocery,Android,4G,14,Thursday,0
+TXN0000094605,P2P,Grocery,Android,5G,19,Wednesday,0
+TXN0000094694,P2M,Food,Android,4G,22,Saturday,1
+TXN0000094843,P2P,Fuel,Android,4G,14,Thursday,0
+TXN0000094886,P2P,Shopping,Android,4G,14,Tuesday,0
+TXN0000095059,P2P,Utilities,Android,4G,7,Friday,0
+TXN0000095207,P2P,Food,Web,4G,9,Monday,0
+TXN0000095487,Bill Payment,Healthcare,Android,4G,5,Saturday,1
+TXN0000095817,Bill Payment,Grocery,Android,4G,10,Tuesday,0
+TXN0000095829,P2P,Shopping,Android,4G,9,Thursday,0
+TXN0000096269,P2M,Entertainment,Android,5G,13,Friday,0
+TXN0000096338,P2M,Healthcare,Android,4G,23,Monday,0
+TXN0000096390,P2P,Grocery,Web,4G,16,Thursday,0
+TXN0000096408,P2P,Grocery,Web,4G,12,Tuesday,0
+TXN0000096796,P2P,Grocery,Android,4G,17,Saturday,1
+TXN0000096861,P2P,Other,Android,4G,11,Sunday,1
+TXN0000096939,P2M,Fuel,Android,4G,13,Wednesday,0
+TXN0000097134,P2P,Food,Android,5G,22,Thursday,0
+TXN0000097150,P2M,Fuel,Web,5G,17,Sunday,1
+TXN0000097281,Recharge,Utilities,Android,4G,12,Wednesday,0
+TXN0000097391,P2M,Entertainment,Android,WiFi,9,Tuesday,0
+TXN0000097402,Bill Payment,Shopping,iOS,5G,20,Thursday,0
+TXN0000097417,P2M,Entertainment,iOS,5G,7,Sunday,1
+TXN0000097610,P2P,Utilities,Android,4G,19,Thursday,0
+TXN0000097647,P2P,Fuel,Android,3G,18,Sunday,1
+TXN0000097653,P2M,Grocery,Android,5G,17,Saturday,1
+TXN0000097857,P2P,Shopping,iOS,5G,14,Tuesday,0
+TXN0000097924,P2P,Utilities,Android,4G,18,Saturday,1
+TXN0000098056,P2M,Other,iOS,5G,19,Tuesday,0
+TXN0000098106,P2M,Utilities,Android,5G,22,Tuesday,0
+TXN0000098165,P2P,Entertainment,iOS,4G,13,Saturday,1
+TXN0000098243,P2P,Healthcare,Android,4G,20,Friday,0
+TXN0000098411,Bill Payment,Transport,iOS,4G,19,Thursday,0
+TXN0000098450,P2P,Grocery,Android,3G,18,Tuesday,0
+TXN0000098856,P2P,Grocery,Android,4G,18,Wednesday,0
+TXN0000099001,P2M,Utilities,Android,5G,20,Thursday,0
+TXN0000099041,P2P,Fuel,Android,4G,20,Sunday,1
+TXN0000099322,P2M,Other,Android,4G,22,Tuesday,0
+TXN0000099368,Bill Payment,Grocery,iOS,4G,21,Wednesday,0
+TXN0000099480,P2M,Utilities,iOS,4G,2,Monday,0
+TXN0000099545,P2P,Fuel,Android,5G,21,Sunday,1
+TXN0000099639,P2M,Utilities,Android,WiFi,20,Monday,0
+TXN0000099905,P2M,Shopping,Android,4G,14,Friday,0
+TXN0000099947,P2P,Shopping,Android,4G,16,Friday,0
+TXN0000099982,P2P,Food,Android,WiFi,8,Saturday,1
+TXN0000100003,P2P,Grocery,Android,4G,15,Saturday,1
+TXN0000100203,Bill Payment,Other,Web,WiFi,19,Tuesday,0
+TXN0000100241,Bill Payment,Grocery,iOS,4G,20,Friday,0
+TXN0000100257,P2M,Education,Android,4G,20,Thursday,0
+TXN0000100313,P2P,Grocery,Android,4G,19,Saturday,1
+TXN0000100380,P2M,Food,Android,4G,14,Monday,0
+TXN0000100474,P2P,Grocery,Android,5G,13,Thursday,0
+TXN0000100604,P2P,Grocery,Android,WiFi,17,Monday,0
+TXN0000100863,P2M,Utilities,Android,3G,16,Tuesday,0
+TXN0000101012,P2P,Education,Android,4G,12,Sunday,1
+TXN0000101037,P2M,Shopping,Android,4G,9,Saturday,1
+TXN0000101079,P2P,Grocery,Android,4G,18,Wednesday,0
+TXN0000101204,P2M,Education,Android,4G,12,Friday,0
+TXN0000101233,P2P,Other,Android,4G,11,Monday,0
+TXN0000101252,Recharge,Transport,Android,4G,10,Saturday,1
+TXN0000101328,P2M,Entertainment,Android,5G,21,Wednesday,0
+TXN0000101442,P2M,Utilities,Android,5G,10,Tuesday,0
+TXN0000101574,P2M,Grocery,iOS,4G,20,Wednesday,0
+TXN0000101688,P2P,Healthcare,Android,5G,8,Friday,0
+TXN0000101823,P2M,Utilities,Android,5G,16,Sunday,1
+TXN0000101950,P2M,Grocery,Web,4G,15,Thursday,0
+TXN0000102070,P2P,Transport,Android,5G,13,Thursday,0
+TXN0000102470,P2M,Grocery,iOS,4G,16,Saturday,1
+TXN0000102515,P2P,Entertainment,Android,4G,18,Monday,0
+TXN0000102873,P2M,Other,Android,5G,14,Friday,0
+TXN0000103297,Bill Payment,Other,Android,WiFi,7,Friday,0
+TXN0000103360,P2P,Transport,iOS,WiFi,4,Sunday,1
+TXN0000103388,Bill Payment,Transport,Android,4G,19,Saturday,1
+TXN0000103480,P2P,Fuel,iOS,4G,19,Monday,0
+TXN0000103616,P2M,Food,Android,5G,19,Wednesday,0
+TXN0000103774,Bill Payment,Food,iOS,4G,22,Monday,0
+TXN0000103784,Bill Payment,Grocery,Web,5G,9,Tuesday,0
+TXN0000103996,P2M,Fuel,Android,4G,22,Sunday,1
+TXN0000104023,P2M,Healthcare,Android,WiFi,17,Friday,0
+TXN0000104040,P2P,Transport,Android,4G,22,Sunday,1
+TXN0000104099,P2M,Utilities,iOS,4G,18,Monday,0
+TXN0000104368,Bill Payment,Shopping,Android,4G,8,Tuesday,0
+TXN0000104668,P2P,Grocery,iOS,5G,15,Monday,0
+TXN0000104683,P2P,Fuel,Android,4G,12,Friday,0
+TXN0000104741,Recharge,Grocery,iOS,4G,18,Friday,0
+TXN0000104834,P2P,Other,Android,4G,11,Friday,0
+TXN0000104838,P2P,Entertainment,Android,4G,1,Saturday,1
+TXN0000104854,P2P,Utilities,Android,4G,13,Thursday,0
+TXN0000104911,P2M,Grocery,Android,4G,17,Sunday,1
+TXN0000104944,P2P,Fuel,Android,WiFi,17,Thursday,0
+TXN0000105002,Bill Payment,Shopping,Android,4G,21,Monday,0
+TXN0000105084,Recharge,Fuel,Android,4G,14,Saturday,1
+TXN0000105305,P2M,Entertainment,Android,4G,21,Friday,0
+TXN0000105324,P2M,Food,iOS,4G,14,Sunday,1
+TXN0000105380,P2M,Grocery,Android,4G,16,Monday,0
+TXN0000105884,P2P,Utilities,Android,WiFi,18,Tuesday,0
+TXN0000106093,P2M,Transport,Android,4G,20,Sunday,1
+TXN0000106242,Recharge,Food,Android,4G,23,Tuesday,0
+TXN0000106249,P2P,Grocery,Android,4G,11,Saturday,1
+TXN0000106424,P2P,Food,Android,4G,9,Friday,0
+TXN0000106476,Bill Payment,Grocery,Android,4G,19,Friday,0
+TXN0000106495,P2P,Shopping,Android,WiFi,13,Sunday,1
+TXN0000106799,P2P,Transport,Android,5G,6,Wednesday,0
+TXN0000106965,P2M,Grocery,Android,5G,8,Sunday,1
+TXN0000107209,Bill Payment,Healthcare,Android,4G,22,Saturday,1
+TXN0000107581,Recharge,Grocery,Android,5G,14,Friday,0
+TXN0000107623,P2M,Transport,Android,4G,10,Wednesday,0
+TXN0000107626,P2P,Entertainment,Android,4G,21,Monday,0
+TXN0000107630,P2M,Grocery,Android,WiFi,19,Friday,0
+TXN0000107705,Bill Payment,Entertainment,iOS,4G,14,Tuesday,0
+TXN0000108063,P2P,Transport,Android,4G,15,Tuesday,0
+TXN0000108141,P2M,Shopping,Android,3G,21,Thursday,0
+TXN0000108150,Bill Payment,Grocery,Android,4G,17,Wednesday,0
+TXN0000108199,P2P,Utilities,Android,4G,11,Thursday,0
+TXN0000108222,P2P,Transport,Android,4G,16,Thursday,0
+TXN0000108227,P2P,Utilities,Android,5G,9,Sunday,1
+TXN0000108277,Bill Payment,Food,Android,WiFi,19,Friday,0
+TXN0000108405,P2P,Entertainment,Android,4G,15,Sunday,1
+TXN0000108700,P2M,Transport,Android,5G,17,Friday,0
+TXN0000108913,P2P,Other,Android,4G,12,Tuesday,0
+TXN0000108984,P2P,Food,Web,4G,12,Sunday,1
+TXN0000109030,Bill Payment,Shopping,Android,4G,17,Wednesday,0
+TXN0000109061,P2M,Other,Android,4G,23,Tuesday,0
+TXN0000109221,Bill Payment,Food,iOS,4G,16,Saturday,1
+TXN0000109456,P2P,Food,Android,5G,23,Saturday,1
+TXN0000109547,P2M,Shopping,Android,4G,9,Saturday,1
+TXN0000109632,Bill Payment,Healthcare,iOS,3G,23,Tuesday,0
+TXN0000110015,P2P,Entertainment,Android,4G,11,Saturday,1
+TXN0000110183,P2P,Transport,Android,4G,12,Monday,0
+TXN0000110412,P2P,Shopping,Web,4G,12,Saturday,1
+TXN0000110562,P2P,Other,Android,5G,19,Saturday,1
+TXN0000110638,P2P,Grocery,Android,4G,22,Thursday,0
+TXN0000110870,P2P,Utilities,Android,4G,19,Thursday,0
+TXN0000111000,P2P,Grocery,Android,5G,9,Tuesday,0
+TXN0000111014,P2P,Fuel,Android,WiFi,15,Tuesday,0
+TXN0000111048,P2P,Food,Android,4G,20,Wednesday,0
+TXN0000111254,P2P,Shopping,Android,3G,9,Monday,0
+TXN0000111285,P2P,Grocery,Web,4G,20,Friday,0
+TXN0000111435,P2M,Other,Android,5G,7,Friday,0
+TXN0000111500,P2P,Fuel,Android,4G,19,Sunday,1
+TXN0000111566,P2P,Grocery,Android,4G,13,Monday,0
+TXN0000111627,Bill Payment,Shopping,Android,4G,16,Friday,0
+TXN0000112296,P2M,Grocery,Android,4G,19,Monday,0
+TXN0000112358,P2P,Food,iOS,4G,14,Monday,0
+TXN0000112504,P2M,Grocery,Android,4G,5,Sunday,1
+TXN0000112593,P2P,Shopping,Android,4G,19,Wednesday,0
+TXN0000112615,P2P,Healthcare,iOS,4G,9,Saturday,1
+TXN0000112664,P2M,Healthcare,Android,5G,11,Sunday,1
+TXN0000112759,P2P,Food,iOS,5G,11,Thursday,0
+TXN0000112774,Bill Payment,Other,Android,4G,11,Friday,0
+TXN0000113099,P2M,Fuel,Android,5G,15,Sunday,1
+TXN0000113274,P2M,Fuel,Android,WiFi,0,Sunday,1
+TXN0000113366,P2P,Food,Android,5G,14,Saturday,1
+TXN0000113369,P2P,Fuel,Android,5G,15,Friday,0
+TXN0000113623,P2M,Grocery,Android,5G,13,Thursday,0
+TXN0000113637,P2P,Shopping,iOS,5G,19,Sunday,1
+TXN0000113706,P2M,Food,iOS,4G,9,Saturday,1
+TXN0000113732,Bill Payment,Education,Android,4G,18,Tuesday,0
+TXN0000113836,Bill Payment,Food,Android,4G,13,Thursday,0
+TXN0000113900,Bill Payment,Transport,Android,4G,14,Monday,0
+TXN0000114257,P2P,Utilities,Android,WiFi,17,Saturday,1
+TXN0000114279,P2M,Entertainment,Android,3G,21,Tuesday,0
+TXN0000114309,P2P,Shopping,Android,WiFi,21,Saturday,1
+TXN0000114349,Bill Payment,Food,Android,5G,16,Monday,0
+TXN0000114736,P2P,Transport,Android,4G,21,Tuesday,0
+TXN0000114917,P2M,Grocery,Android,4G,12,Friday,0
+TXN0000114952,Bill Payment,Entertainment,Android,4G,19,Thursday,0
+TXN0000114982,P2P,Entertainment,Android,WiFi,12,Sunday,1
+TXN0000115281,P2P,Other,iOS,4G,20,Friday,0
+TXN0000115340,P2M,Food,Android,5G,19,Sunday,1
+TXN0000115700,P2P,Fuel,Web,4G,19,Thursday,0
+TXN0000116093,P2P,Transport,iOS,WiFi,19,Monday,0
+TXN0000116170,P2M,Grocery,Android,5G,21,Sunday,1
+TXN0000116268,P2M,Grocery,Web,4G,21,Thursday,0
+TXN0000116290,P2P,Shopping,Android,4G,10,Sunday,1
+TXN0000117243,P2P,Entertainment,Android,5G,12,Friday,0
+TXN0000117259,P2M,Grocery,Web,4G,15,Monday,0
+TXN0000117482,Bill Payment,Healthcare,Android,WiFi,18,Wednesday,0
+TXN0000117581,P2P,Other,Web,WiFi,19,Friday,0
+TXN0000117648,P2P,Shopping,iOS,3G,19,Saturday,1
+TXN0000117874,P2P,Food,iOS,4G,8,Wednesday,0
+TXN0000117925,P2P,Fuel,Android,3G,15,Friday,0
+TXN0000117956,P2P,Healthcare,Android,WiFi,18,Friday,0
+TXN0000118012,P2P,Food,Android,5G,15,Thursday,0
+TXN0000118101,P2M,Fuel,iOS,5G,13,Sunday,1
+TXN0000118219,P2P,Grocery,Android,4G,18,Friday,0
+TXN0000118327,P2M,Grocery,Android,5G,20,Tuesday,0
+TXN0000118330,P2M,Utilities,Android,4G,19,Saturday,1
+TXN0000118670,P2M,Food,Android,4G,20,Friday,0
+TXN0000118737,Bill Payment,Education,Android,5G,23,Tuesday,0
+TXN0000118830,P2M,Transport,Android,5G,11,Friday,0
+TXN0000118874,P2M,Education,iOS,WiFi,19,Thursday,0
+TXN0000118906,Bill Payment,Utilities,iOS,5G,21,Tuesday,0
+TXN0000119001,Recharge,Food,Android,5G,13,Saturday,1
+TXN0000119536,P2M,Education,Android,4G,11,Friday,0
+TXN0000119583,P2M,Shopping,Android,4G,18,Saturday,1
+TXN0000119629,P2P,Shopping,Android,4G,12,Wednesday,0
+TXN0000119670,P2M,Fuel,Web,5G,7,Wednesday,0
+TXN0000119954,P2M,Food,Android,4G,9,Sunday,1
+TXN0000120143,P2M,Grocery,iOS,WiFi,18,Saturday,1
+TXN0000120177,P2M,Transport,Android,WiFi,17,Saturday,1
+TXN0000120292,P2M,Entertainment,Android,4G,8,Sunday,1
+TXN0000120375,P2M,Transport,iOS,5G,16,Thursday,0
+TXN0000120443,P2P,Transport,iOS,5G,10,Wednesday,0
+TXN0000120450,Recharge,Grocery,Web,4G,12,Sunday,1
+TXN0000121000,Bill Payment,Utilities,iOS,4G,14,Saturday,1
+TXN0000121051,P2P,Food,Web,4G,9,Saturday,1
+TXN0000121069,P2M,Transport,iOS,4G,10,Tuesday,0
+TXN0000121177,P2P,Grocery,Android,4G,17,Tuesday,0
+TXN0000121587,P2M,Utilities,iOS,WiFi,16,Sunday,1
+TXN0000121642,P2M,Food,Web,4G,20,Sunday,1
+TXN0000121662,P2P,Healthcare,iOS,4G,18,Friday,0
+TXN0000122213,P2P,Other,Android,4G,10,Monday,0
+TXN0000122364,P2P,Healthcare,iOS,WiFi,5,Wednesday,0
+TXN0000122599,Recharge,Other,Android,4G,17,Wednesday,0
+TXN0000122725,P2P,Shopping,Android,5G,23,Friday,0
+TXN0000122730,Bill Payment,Food,Android,4G,9,Thursday,0
+TXN0000122740,Bill Payment,Food,iOS,WiFi,19,Wednesday,0
+TXN0000122821,P2M,Utilities,Android,4G,17,Friday,0
+TXN0000122923,Bill Payment,Shopping,iOS,4G,21,Sunday,1
+TXN0000122960,Bill Payment,Utilities,Android,4G,11,Monday,0
+TXN0000123286,Bill Payment,Healthcare,Android,4G,21,Thursday,0
+TXN0000123289,P2P,Shopping,iOS,4G,12,Thursday,0
+TXN0000123647,Bill Payment,Shopping,Android,4G,21,Wednesday,0
+TXN0000123692,P2P,Entertainment,iOS,4G,11,Saturday,1
+TXN0000123858,P2M,Grocery,Android,5G,13,Thursday,0
+TXN0000124115,P2M,Utilities,Android,5G,10,Tuesday,0
+TXN0000124217,P2M,Grocery,Web,4G,9,Saturday,1
+TXN0000124224,Bill Payment,Food,Android,4G,10,Sunday,1
+TXN0000124795,P2M,Grocery,Android,4G,11,Saturday,1
+TXN0000124864,P2M,Grocery,Android,4G,19,Tuesday,0
+TXN0000124988,P2P,Food,Android,4G,17,Thursday,0
+TXN0000125354,P2M,Food,iOS,4G,12,Monday,0
+TXN0000125539,P2P,Grocery,Android,4G,10,Sunday,1
+TXN0000125879,Bill Payment,Healthcare,Android,4G,8,Tuesday,0
+TXN0000125906,P2M,Education,Android,4G,14,Monday,0
+TXN0000125987,P2P,Grocery,iOS,5G,9,Monday,0
+TXN0000126247,P2M,Education,Android,4G,18,Sunday,1
+TXN0000126298,P2P,Shopping,Android,4G,22,Tuesday,0
+TXN0000126633,P2M,Grocery,Web,WiFi,18,Wednesday,0
+TXN0000126651,P2P,Transport,Android,WiFi,13,Friday,0
+TXN0000126718,P2P,Grocery,Android,5G,7,Sunday,1
+TXN0000126808,P2P,Healthcare,iOS,4G,21,Tuesday,0
+TXN0000126857,P2P,Other,Android,4G,11,Friday,0
+TXN0000126986,Bill Payment,Fuel,Android,5G,2,Sunday,1
+TXN0000127004,P2P,Fuel,iOS,4G,20,Saturday,1
+TXN0000127081,P2P,Shopping,Android,4G,21,Sunday,1
+TXN0000127133,P2M,Utilities,Android,4G,11,Saturday,1
+TXN0000127415,Bill Payment,Food,Android,3G,22,Monday,0
+TXN0000127513,Bill Payment,Other,Android,4G,20,Tuesday,0
+TXN0000127553,P2P,Utilities,iOS,4G,8,Thursday,0
+TXN0000127849,P2P,Shopping,iOS,3G,11,Monday,0
+TXN0000127933,P2P,Grocery,Android,5G,22,Friday,0
+TXN0000127995,P2M,Entertainment,Android,4G,6,Thursday,0
+TXN0000128065,P2M,Grocery,Android,4G,16,Friday,0
+TXN0000128108,P2P,Other,Android,4G,17,Saturday,1
+TXN0000128182,P2P,Other,Android,4G,13,Sunday,1
+TXN0000128185,P2P,Transport,Android,4G,18,Monday,0
+TXN0000128483,P2P,Grocery,Android,4G,21,Sunday,1
+TXN0000128554,P2M,Grocery,iOS,5G,0,Wednesday,0
+TXN0000128775,Bill Payment,Shopping,Android,4G,21,Sunday,1
+TXN0000128809,P2P,Other,Android,4G,17,Monday,0
+TXN0000128857,Bill Payment,Shopping,Android,WiFi,14,Monday,0
+TXN0000129215,P2P,Utilities,iOS,4G,15,Monday,0
+TXN0000129225,Recharge,Grocery,Android,4G,18,Tuesday,0
+TXN0000129537,P2P,Shopping,Android,5G,19,Saturday,1
+TXN0000129575,Recharge,Utilities,iOS,3G,21,Saturday,1
+TXN0000129630,P2M,Grocery,Web,4G,13,Wednesday,0
+TXN0000129839,P2P,Education,Android,4G,17,Thursday,0
+TXN0000130003,P2M,Entertainment,Android,4G,18,Monday,0
+TXN0000130107,P2P,Utilities,Android,5G,14,Thursday,0
+TXN0000130212,P2P,Grocery,Android,4G,20,Saturday,1
+TXN0000130254,P2M,Grocery,iOS,4G,23,Friday,0
+TXN0000130268,P2P,Grocery,Android,4G,10,Saturday,1
+TXN0000130278,P2P,Food,Android,5G,8,Monday,0
+TXN0000130287,P2M,Entertainment,Android,4G,18,Sunday,1
+TXN0000130332,P2M,Food,iOS,5G,15,Saturday,1
+TXN0000130361,Bill Payment,Shopping,iOS,WiFi,13,Friday,0
+TXN0000130764,Bill Payment,Food,Android,WiFi,14,Thursday,0
+TXN0000130932,P2P,Other,Android,5G,21,Wednesday,0
+TXN0000131022,P2P,Utilities,Android,4G,12,Thursday,0
+TXN0000131447,P2M,Education,Android,4G,13,Thursday,0
+TXN0000131520,P2P,Food,Android,4G,21,Sunday,1
+TXN0000131684,P2P,Transport,Android,4G,21,Friday,0
+TXN0000131771,P2M,Grocery,Android,4G,12,Monday,0
+TXN0000131773,P2P,Food,Android,4G,4,Friday,0
+TXN0000131959,P2M,Food,Android,4G,11,Sunday,1
+TXN0000132103,Bill Payment,Shopping,iOS,4G,10,Thursday,0
+TXN0000132179,P2P,Shopping,iOS,4G,12,Thursday,0
+TXN0000132195,P2M,Food,iOS,4G,15,Monday,0
+TXN0000132288,P2P,Healthcare,iOS,WiFi,6,Wednesday,0
+TXN0000132429,P2P,Entertainment,Android,5G,9,Monday,0
+TXN0000132461,P2M,Transport,Android,4G,10,Saturday,1
+TXN0000132462,P2P,Grocery,Android,5G,12,Thursday,0
+TXN0000132553,P2M,Food,Android,4G,17,Monday,0
+TXN0000132554,P2M,Transport,Android,4G,18,Monday,0
+TXN0000132639,Recharge,Shopping,Android,4G,12,Sunday,1
+TXN0000132695,P2P,Food,Android,4G,6,Thursday,0
+TXN0000132770,P2M,Healthcare,Android,4G,5,Thursday,0
+TXN0000132779,P2P,Other,Android,4G,1,Monday,0
+TXN0000133289,P2P,Food,Android,4G,22,Friday,0
+TXN0000133467,Recharge,Grocery,Android,WiFi,19,Friday,0
+TXN0000133581,P2P,Transport,Android,5G,13,Monday,0
+TXN0000133699,P2M,Grocery,Android,WiFi,20,Sunday,1
+TXN0000133726,P2P,Grocery,Android,3G,19,Sunday,1
+TXN0000133982,P2P,Other,Android,5G,14,Wednesday,0
+TXN0000134002,P2M,Shopping,Android,5G,17,Saturday,1
+TXN0000134076,P2P,Other,Android,4G,11,Sunday,1
+TXN0000134089,P2M,Shopping,Android,4G,12,Thursday,0
+TXN0000134232,P2P,Entertainment,iOS,4G,9,Saturday,1
+TXN0000134270,P2M,Food,Android,5G,15,Wednesday,0
+TXN0000134290,Bill Payment,Other,Android,5G,12,Wednesday,0
+TXN0000134454,P2M,Grocery,Android,4G,19,Tuesday,0
+TXN0000134511,P2P,Entertainment,iOS,4G,19,Wednesday,0
+TXN0000134720,P2P,Transport,Android,4G,14,Friday,0
+TXN0000134936,P2P,Shopping,Android,WiFi,13,Wednesday,0
+TXN0000134972,P2P,Entertainment,iOS,WiFi,11,Friday,0
+TXN0000135153,P2M,Education,Android,4G,10,Saturday,1
+TXN0000135229,P2P,Other,Android,5G,6,Saturday,1
+TXN0000135248,P2P,Grocery,iOS,5G,19,Saturday,1
+TXN0000135434,Recharge,Food,Android,4G,4,Friday,0
+TXN0000135436,P2P,Food,Android,4G,12,Tuesday,0
+TXN0000135671,P2M,Utilities,Android,4G,0,Wednesday,0
+TXN0000135705,P2P,Fuel,Web,5G,21,Sunday,1
+TXN0000135862,P2M,Entertainment,Android,4G,13,Wednesday,0
+TXN0000135986,P2P,Other,Android,4G,12,Sunday,1
+TXN0000136023,P2P,Grocery,Android,5G,20,Monday,0
+TXN0000136252,P2P,Shopping,Android,4G,14,Thursday,0
+TXN0000136317,P2M,Utilities,Android,4G,23,Friday,0
+TXN0000136514,P2M,Grocery,Android,4G,8,Thursday,0
+TXN0000136964,Bill Payment,Shopping,Android,4G,17,Thursday,0
+TXN0000137121,Bill Payment,Transport,Android,4G,9,Tuesday,0
+TXN0000137186,P2P,Food,Android,WiFi,10,Sunday,1
+TXN0000137195,P2P,Food,Android,4G,18,Saturday,1
+TXN0000137351,P2P,Grocery,Android,4G,20,Sunday,1
+TXN0000137555,P2P,Fuel,Android,4G,12,Thursday,0
+TXN0000137693,P2M,Education,Android,4G,0,Wednesday,0
+TXN0000137756,P2M,Entertainment,Android,4G,21,Thursday,0
+TXN0000137828,P2P,Grocery,Android,4G,10,Wednesday,0
+TXN0000137882,P2M,Food,Android,4G,22,Monday,0
+TXN0000138105,P2M,Shopping,Android,4G,14,Sunday,1
+TXN0000138294,P2P,Grocery,Android,4G,10,Sunday,1
+TXN0000138413,Bill Payment,Entertainment,Android,5G,21,Tuesday,0
+TXN0000138447,P2P,Grocery,iOS,4G,20,Saturday,1
+TXN0000138588,P2M,Other,Android,5G,13,Friday,0
+TXN0000138759,P2P,Transport,Android,4G,19,Monday,0
+TXN0000138997,P2P,Food,Web,4G,11,Wednesday,0
+TXN0000139009,P2M,Other,Android,4G,11,Sunday,1
+TXN0000139243,P2P,Grocery,Android,5G,10,Friday,0
+TXN0000139436,P2M,Grocery,Android,5G,22,Wednesday,0
+TXN0000139470,P2P,Other,Android,WiFi,13,Thursday,0
+TXN0000139511,P2P,Other,iOS,4G,19,Thursday,0
+TXN0000139585,Recharge,Education,iOS,4G,7,Monday,0
+TXN0000139653,Bill Payment,Entertainment,Android,5G,15,Tuesday,0
+TXN0000139722,P2P,Grocery,Android,5G,20,Monday,0
+TXN0000139738,P2P,Other,Android,5G,7,Thursday,0
+TXN0000139740,P2P,Healthcare,Android,4G,10,Monday,0
+TXN0000139763,Bill Payment,Food,Android,4G,10,Saturday,1
+TXN0000140162,P2P,Food,Android,5G,3,Thursday,0
+TXN0000140408,Bill Payment,Grocery,Android,WiFi,17,Saturday,1
+TXN0000140521,P2P,Fuel,Android,4G,21,Monday,0
+TXN0000140575,Bill Payment,Food,Web,5G,12,Monday,0
+TXN0000140603,P2M,Entertainment,Android,4G,12,Friday,0
+TXN0000140733,P2P,Grocery,Android,4G,6,Tuesday,0
+TXN0000141102,P2M,Fuel,Android,WiFi,23,Monday,0
+TXN0000141180,P2M,Education,Android,4G,18,Friday,0
+TXN0000141185,P2P,Grocery,Android,4G,17,Saturday,1
+TXN0000141389,P2P,Entertainment,Android,4G,15,Sunday,1
+TXN0000141516,P2M,Entertainment,Android,4G,11,Wednesday,0
+TXN0000141647,P2P,Grocery,Android,5G,2,Saturday,1
+TXN0000141773,P2M,Other,Android,5G,17,Saturday,1
+TXN0000141790,Bill Payment,Other,Android,4G,18,Friday,0
+TXN0000141796,P2P,Grocery,Android,4G,19,Monday,0
+TXN0000141916,Bill Payment,Shopping,Android,4G,8,Tuesday,0
+TXN0000141991,P2M,Entertainment,iOS,5G,13,Friday,0
+TXN0000141998,Bill Payment,Shopping,Android,4G,9,Tuesday,0
+TXN0000142016,P2P,Grocery,Android,WiFi,19,Thursday,0
+TXN0000142041,P2P,Utilities,Android,5G,15,Friday,0
+TXN0000142176,P2M,Entertainment,iOS,5G,18,Thursday,0
+TXN0000142670,Bill Payment,Grocery,Android,4G,13,Friday,0
+TXN0000142792,P2P,Transport,Android,5G,13,Thursday,0
+TXN0000142851,P2M,Food,iOS,5G,16,Monday,0
+TXN0000142949,P2P,Utilities,Android,5G,15,Sunday,1
+TXN0000142990,Bill Payment,Healthcare,Android,4G,0,Tuesday,0
+TXN0000143051,P2P,Entertainment,iOS,5G,10,Monday,0
+TXN0000143757,Recharge,Healthcare,Android,WiFi,23,Sunday,1
+TXN0000143884,P2P,Grocery,Android,4G,20,Thursday,0
+TXN0000144070,P2P,Transport,Android,4G,13,Monday,0
+TXN0000144132,P2M,Food,Android,4G,8,Friday,0
+TXN0000144231,Recharge,Food,Android,5G,18,Monday,0
+TXN0000144636,Bill Payment,Other,Android,5G,10,Friday,0
+TXN0000144695,P2P,Transport,iOS,4G,22,Friday,0
+TXN0000144751,P2M,Utilities,Android,4G,20,Friday,0
+TXN0000144805,P2P,Utilities,Android,4G,21,Sunday,1
+TXN0000145031,P2M,Other,Android,4G,15,Thursday,0
+TXN0000145204,P2M,Shopping,Android,4G,9,Wednesday,0
+TXN0000145903,P2M,Food,Android,4G,12,Friday,0
+TXN0000146006,P2P,Transport,Android,4G,14,Monday,0
+TXN0000146061,P2M,Food,Android,4G,13,Saturday,1
+TXN0000146136,Recharge,Grocery,Web,4G,17,Thursday,0
+TXN0000146304,Bill Payment,Fuel,Web,4G,11,Saturday,1
+TXN0000146350,P2P,Grocery,iOS,5G,18,Saturday,1
+TXN0000146424,P2M,Education,Android,5G,10,Monday,0
+TXN0000146446,P2M,Grocery,Web,4G,10,Monday,0
+TXN0000146459,P2P,Entertainment,iOS,5G,13,Thursday,0
+TXN0000146470,P2M,Grocery,Android,3G,16,Tuesday,0
+TXN0000146519,P2P,Grocery,Android,4G,11,Monday,0
+TXN0000146669,Bill Payment,Food,Android,5G,10,Friday,0
+TXN0000146687,P2P,Other,iOS,5G,21,Tuesday,0
+TXN0000146886,P2M,Food,Web,3G,23,Monday,0
+TXN0000146898,P2P,Healthcare,Android,4G,10,Thursday,0
+TXN0000147349,P2P,Shopping,Android,5G,18,Wednesday,0
+TXN0000147573,P2P,Food,Android,4G,3,Saturday,1
+TXN0000147917,P2M,Healthcare,Web,4G,20,Thursday,0
+TXN0000148176,P2P,Shopping,Android,4G,12,Friday,0
+TXN0000148222,P2P,Entertainment,Android,4G,17,Tuesday,0
+TXN0000148322,P2P,Food,Android,4G,12,Friday,0
+TXN0000148625,P2P,Other,Android,4G,19,Saturday,1
+TXN0000148665,Bill Payment,Fuel,Web,4G,19,Friday,0
+TXN0000148708,Bill Payment,Shopping,Android,4G,15,Tuesday,0
+TXN0000148715,P2P,Entertainment,iOS,WiFi,8,Wednesday,0
+TXN0000148817,P2M,Other,Android,4G,0,Tuesday,0
+TXN0000148890,P2P,Other,Android,4G,11,Monday,0
+TXN0000148940,P2M,Grocery,Android,5G,15,Thursday,0
+TXN0000149304,Bill Payment,Other,Android,4G,15,Monday,0
+TXN0000149472,P2P,Grocery,iOS,5G,13,Tuesday,0
+TXN0000149559,Recharge,Other,iOS,4G,10,Monday,0
+TXN0000149974,P2P,Grocery,iOS,4G,20,Tuesday,0
+TXN0000149977,P2M,Grocery,Android,4G,19,Wednesday,0
+TXN0000150075,P2P,Grocery,Android,4G,18,Wednesday,0
+TXN0000150136,P2M,Shopping,Android,4G,16,Thursday,0
+TXN0000150184,P2P,Shopping,Android,4G,22,Wednesday,0
+TXN0000150468,P2P,Other,iOS,3G,17,Monday,0
+TXN0000150509,P2P,Food,Android,4G,11,Thursday,0
+TXN0000150827,P2M,Food,Android,4G,20,Monday,0
+TXN0000150897,Bill Payment,Fuel,Android,5G,21,Saturday,1
+TXN0000150968,P2M,Grocery,Android,5G,19,Sunday,1
+TXN0000150983,P2M,Utilities,Android,4G,12,Thursday,0
+TXN0000150995,Bill Payment,Entertainment,iOS,4G,20,Thursday,0
+TXN0000151453,P2P,Utilities,Android,4G,18,Thursday,0
+TXN0000151465,P2P,Grocery,Android,4G,7,Wednesday,0
+TXN0000151502,Bill Payment,Food,Android,WiFi,21,Wednesday,0
+TXN0000152020,P2M,Grocery,iOS,4G,20,Wednesday,0
+TXN0000152115,P2P,Shopping,Android,4G,20,Saturday,1
+TXN0000152168,P2M,Fuel,iOS,4G,18,Thursday,0
+TXN0000152313,P2M,Grocery,Android,4G,7,Friday,0
+TXN0000152522,P2M,Entertainment,Android,4G,14,Sunday,1
+TXN0000152598,P2P,Fuel,Android,WiFi,17,Sunday,1
+TXN0000152676,P2M,Food,Android,4G,21,Thursday,0
+TXN0000152752,P2P,Food,Android,4G,3,Thursday,0
+TXN0000152923,P2M,Grocery,iOS,4G,8,Sunday,1
+TXN0000152941,Bill Payment,Utilities,iOS,4G,13,Tuesday,0
+TXN0000152975,P2P,Shopping,Android,4G,14,Saturday,1
+TXN0000153052,P2P,Grocery,iOS,5G,22,Thursday,0
+TXN0000153110,P2M,Food,Web,4G,12,Saturday,1
+TXN0000153320,P2P,Shopping,iOS,5G,13,Sunday,1
+TXN0000153587,P2P,Other,Android,WiFi,11,Tuesday,0
+TXN0000153717,P2P,Food,Android,4G,9,Wednesday,0
+TXN0000153741,Bill Payment,Fuel,Android,3G,9,Thursday,0
+TXN0000153981,P2P,Food,Android,4G,21,Wednesday,0
+TXN0000154156,Bill Payment,Food,Android,4G,18,Sunday,1
+TXN0000154426,P2P,Grocery,Android,4G,10,Monday,0
+TXN0000154446,P2P,Utilities,Android,5G,10,Friday,0
+TXN0000154684,P2P,Healthcare,Android,5G,14,Monday,0
+TXN0000154696,P2M,Transport,Android,5G,9,Friday,0
+TXN0000154827,Bill Payment,Other,Android,5G,13,Saturday,1
+TXN0000155038,P2P,Shopping,iOS,5G,12,Saturday,1
+TXN0000155132,P2P,Food,iOS,4G,10,Tuesday,0
+TXN0000155185,Bill Payment,Utilities,Android,5G,20,Wednesday,0
+TXN0000155282,P2M,Other,iOS,4G,19,Monday,0
+TXN0000155434,Bill Payment,Fuel,Android,5G,19,Monday,0
+TXN0000155477,P2M,Utilities,Android,4G,12,Saturday,1
+TXN0000155493,P2P,Entertainment,Android,3G,3,Friday,0
+TXN0000155650,P2P,Food,Android,4G,21,Tuesday,0
+TXN0000155773,P2M,Utilities,Android,WiFi,10,Tuesday,0
+TXN0000156221,P2P,Food,Android,4G,18,Saturday,1
+TXN0000156266,Recharge,Shopping,Android,WiFi,15,Tuesday,0
+TXN0000156532,P2M,Food,Android,5G,12,Tuesday,0
+TXN0000156635,P2M,Fuel,iOS,4G,10,Friday,0
+TXN0000156653,Recharge,Transport,Android,5G,10,Wednesday,0
+TXN0000156696,P2P,Grocery,Android,4G,0,Monday,0
+TXN0000156705,P2P,Grocery,Android,4G,22,Friday,0
+TXN0000156716,P2P,Healthcare,Android,5G,1,Thursday,0
+TXN0000156902,Bill Payment,Shopping,Web,4G,13,Friday,0
+TXN0000157160,P2M,Education,Android,WiFi,13,Tuesday,0
+TXN0000157253,P2P,Utilities,Android,4G,22,Sunday,1
+TXN0000157380,Bill Payment,Healthcare,Web,WiFi,13,Saturday,1
+TXN0000157437,P2M,Food,iOS,4G,12,Tuesday,0
+TXN0000157461,P2M,Other,Android,5G,21,Friday,0
+TXN0000157495,P2P,Fuel,Android,3G,18,Thursday,0
+TXN0000157745,P2P,Other,iOS,3G,13,Wednesday,0
+TXN0000157803,P2M,Grocery,Android,4G,10,Monday,0
+TXN0000157899,Bill Payment,Shopping,Android,4G,10,Sunday,1
+TXN0000157904,P2P,Grocery,Android,4G,9,Thursday,0
+TXN0000157929,P2M,Grocery,Web,4G,3,Tuesday,0
+TXN0000158093,Bill Payment,Shopping,Android,5G,22,Sunday,1
+TXN0000158105,Bill Payment,Education,Android,3G,0,Tuesday,0
+TXN0000158207,P2M,Utilities,Android,4G,23,Friday,0
+TXN0000158410,Bill Payment,Grocery,Android,4G,17,Tuesday,0
+TXN0000158799,P2M,Grocery,Android,WiFi,18,Saturday,1
+TXN0000158853,P2M,Food,Android,4G,17,Thursday,0
+TXN0000159203,P2M,Grocery,iOS,4G,13,Monday,0
+TXN0000159340,P2P,Food,Android,4G,8,Friday,0
+TXN0000159550,Bill Payment,Other,Android,5G,17,Wednesday,0
+TXN0000159604,P2M,Food,Android,5G,17,Tuesday,0
+TXN0000159936,P2M,Grocery,iOS,5G,8,Wednesday,0
+TXN0000160001,P2M,Entertainment,Android,4G,13,Friday,0
+TXN0000160128,Bill Payment,Transport,Android,4G,12,Sunday,1
+TXN0000160324,Recharge,Fuel,Android,4G,21,Tuesday,0
+TXN0000160469,P2P,Grocery,Android,5G,22,Thursday,0
+TXN0000160502,P2P,Grocery,iOS,4G,11,Wednesday,0
+TXN0000160536,P2M,Other,Android,WiFi,21,Friday,0
+TXN0000160849,P2P,Shopping,iOS,5G,2,Wednesday,0
+TXN0000160850,P2P,Entertainment,Android,3G,12,Friday,0
+TXN0000160872,Bill Payment,Food,Android,4G,16,Thursday,0
+TXN0000161076,Bill Payment,Healthcare,Android,4G,17,Wednesday,0
+TXN0000161177,P2P,Entertainment,Android,5G,23,Friday,0
+TXN0000161462,P2P,Grocery,Android,5G,11,Monday,0
+TXN0000161501,P2M,Shopping,Android,4G,21,Thursday,0
+TXN0000161594,P2P,Utilities,Android,5G,14,Tuesday,0
+TXN0000161597,P2P,Other,iOS,4G,12,Wednesday,0
+TXN0000161745,P2P,Fuel,Android,4G,11,Monday,0
+TXN0000161857,Recharge,Shopping,iOS,4G,8,Friday,0
+TXN0000161982,P2P,Entertainment,Android,5G,18,Wednesday,0
+TXN0000162064,P2P,Entertainment,Android,WiFi,17,Friday,0
+TXN0000162437,Recharge,Healthcare,iOS,4G,11,Monday,0
+TXN0000162514,P2P,Entertainment,Android,WiFi,11,Monday,0
+TXN0000162562,P2P,Other,Android,4G,22,Monday,0
+TXN0000162663,P2P,Shopping,Android,4G,14,Sunday,1
+TXN0000162695,Bill Payment,Shopping,Android,4G,17,Thursday,0
+TXN0000162791,P2M,Healthcare,Android,5G,17,Sunday,1
+TXN0000163114,P2P,Other,Android,WiFi,0,Thursday,0
+TXN0000163135,P2M,Entertainment,Android,4G,21,Thursday,0
+TXN0000163161,P2P,Transport,Web,4G,6,Wednesday,0
+TXN0000163174,P2M,Grocery,Android,4G,16,Sunday,1
+TXN0000163417,P2P,Other,Android,4G,18,Thursday,0
+TXN0000163421,P2P,Entertainment,Android,5G,18,Saturday,1
+TXN0000163502,P2P,Food,Android,4G,21,Tuesday,0
+TXN0000163614,P2M,Grocery,Android,4G,22,Saturday,1
+TXN0000163733,P2M,Fuel,Android,5G,11,Wednesday,0
+TXN0000164152,P2M,Healthcare,iOS,4G,20,Friday,0
+TXN0000164223,Bill Payment,Fuel,Android,4G,15,Monday,0
+TXN0000164500,P2P,Utilities,Web,4G,20,Wednesday,0
+TXN0000164554,Bill Payment,Food,Android,4G,21,Saturday,1
+TXN0000164684,P2M,Food,Android,WiFi,0,Friday,0
+TXN0000164739,P2P,Grocery,Android,5G,16,Friday,0
+TXN0000164862,P2M,Healthcare,Android,4G,16,Monday,0
+TXN0000164981,P2P,Transport,Android,5G,11,Thursday,0
+TXN0000165077,P2P,Healthcare,Web,4G,19,Tuesday,0
+TXN0000165215,P2M,Transport,Android,4G,10,Wednesday,0
+TXN0000165322,P2P,Food,Android,4G,8,Wednesday,0
+TXN0000165328,P2M,Food,iOS,5G,21,Monday,0
+TXN0000165438,P2P,Grocery,Android,4G,11,Thursday,0
+TXN0000165558,P2P,Grocery,Android,4G,17,Saturday,1
+TXN0000165685,P2P,Other,Android,4G,19,Monday,0
+TXN0000165698,P2M,Grocery,Android,4G,11,Tuesday,0
+TXN0000165974,P2P,Fuel,Android,5G,17,Friday,0
+TXN0000166121,P2P,Shopping,Android,4G,17,Sunday,1
+TXN0000166211,P2P,Grocery,Web,5G,17,Monday,0
+TXN0000166481,P2P,Other,Android,WiFi,15,Sunday,1
+TXN0000166583,Bill Payment,Other,Android,4G,17,Wednesday,0
+TXN0000166674,P2P,Grocery,Android,4G,16,Tuesday,0
+TXN0000166741,P2P,Grocery,Android,4G,19,Wednesday,0
+TXN0000166862,P2P,Education,Android,4G,19,Tuesday,0
+TXN0000166931,P2M,Food,Android,4G,12,Thursday,0
+TXN0000167026,Bill Payment,Grocery,iOS,3G,11,Thursday,0
+TXN0000167044,P2M,Other,Android,WiFi,20,Thursday,0
+TXN0000167270,P2P,Shopping,Android,4G,14,Tuesday,0
+TXN0000167325,Bill Payment,Entertainment,Android,4G,13,Thursday,0
+TXN0000167345,P2P,Food,Android,4G,18,Sunday,1
+TXN0000167410,P2M,Other,Android,4G,10,Wednesday,0
+TXN0000167437,P2M,Fuel,Web,4G,14,Friday,0
+TXN0000167540,P2M,Transport,Android,4G,8,Tuesday,0
+TXN0000167560,P2M,Shopping,iOS,4G,14,Thursday,0
+TXN0000167594,P2P,Food,Android,4G,20,Thursday,0
+TXN0000167603,P2M,Entertainment,Android,5G,17,Thursday,0
+TXN0000167786,Bill Payment,Transport,Android,4G,4,Monday,0
+TXN0000167806,P2M,Utilities,Android,3G,11,Monday,0
+TXN0000167880,P2M,Grocery,iOS,4G,21,Thursday,0
+TXN0000167958,P2P,Entertainment,Android,WiFi,0,Sunday,1
+TXN0000167963,P2M,Food,iOS,5G,19,Thursday,0
+TXN0000167990,Bill Payment,Entertainment,Android,4G,11,Thursday,0
+TXN0000168089,Bill Payment,Grocery,Android,4G,11,Friday,0
+TXN0000168128,P2P,Entertainment,iOS,4G,10,Monday,0
+TXN0000168251,Bill Payment,Transport,iOS,3G,21,Wednesday,0
+TXN0000168342,P2M,Shopping,iOS,3G,17,Sunday,1
+TXN0000168359,P2P,Grocery,Android,5G,19,Wednesday,0
+TXN0000168397,P2M,Fuel,iOS,5G,12,Tuesday,0
+TXN0000168690,P2M,Food,Android,4G,22,Sunday,1
+TXN0000168699,Bill Payment,Food,Android,4G,18,Monday,0
+TXN0000168765,Bill Payment,Grocery,Android,4G,18,Tuesday,0
+TXN0000169129,P2P,Transport,Web,4G,15,Monday,0
+TXN0000169437,Bill Payment,Utilities,Android,3G,9,Friday,0
+TXN0000169480,P2M,Shopping,Android,4G,16,Monday,0
+TXN0000169598,Bill Payment,Grocery,Android,4G,8,Sunday,1
+TXN0000169666,P2M,Food,Android,WiFi,18,Sunday,1
+TXN0000169909,Bill Payment,Utilities,iOS,5G,18,Monday,0
+TXN0000169970,P2M,Shopping,iOS,5G,17,Friday,0
+TXN0000170169,Recharge,Grocery,iOS,4G,13,Saturday,1
+TXN0000170245,Bill Payment,Grocery,Android,4G,8,Wednesday,0
+TXN0000170376,P2P,Grocery,Android,4G,22,Tuesday,0
+TXN0000170436,P2P,Utilities,Android,WiFi,17,Monday,0
+TXN0000170438,P2P,Education,iOS,4G,19,Tuesday,0
+TXN0000170487,Bill Payment,Food,Android,WiFi,5,Friday,0
+TXN0000170627,P2P,Education,iOS,4G,15,Saturday,1
+TXN0000170634,Recharge,Grocery,iOS,5G,21,Friday,0
+TXN0000170859,P2P,Fuel,iOS,4G,17,Saturday,1
+TXN0000171083,P2M,Food,Android,WiFi,7,Monday,0
+TXN0000171433,P2P,Transport,Android,4G,21,Sunday,1
+TXN0000171518,P2M,Shopping,Android,4G,15,Tuesday,0
+TXN0000171593,Bill Payment,Grocery,Android,4G,21,Sunday,1
+TXN0000171597,Bill Payment,Food,iOS,4G,12,Thursday,0
+TXN0000171608,P2M,Food,Android,4G,19,Thursday,0
+TXN0000171612,P2P,Healthcare,iOS,4G,23,Saturday,1
+TXN0000171746,P2P,Entertainment,iOS,4G,21,Wednesday,0
+TXN0000171925,P2M,Utilities,iOS,4G,10,Wednesday,0
+TXN0000172048,P2P,Other,Android,4G,11,Sunday,1
+TXN0000172283,P2M,Education,Android,4G,13,Friday,0
+TXN0000172460,P2P,Grocery,Android,4G,0,Wednesday,0
+TXN0000172488,P2P,Transport,Web,4G,11,Monday,0
+TXN0000172634,P2M,Grocery,Android,5G,14,Sunday,1
+TXN0000172756,P2M,Education,Web,4G,19,Sunday,1
+TXN0000172790,P2P,Fuel,Android,4G,7,Friday,0
+TXN0000172862,P2P,Entertainment,Android,4G,12,Sunday,1
+TXN0000172900,P2P,Grocery,Android,4G,19,Monday,0
+TXN0000172969,P2P,Other,iOS,5G,20,Monday,0
+TXN0000173091,P2M,Other,Android,4G,18,Saturday,1
+TXN0000173232,P2M,Shopping,Android,WiFi,13,Tuesday,0
+TXN0000173288,Bill Payment,Grocery,Android,4G,21,Monday,0
+TXN0000173300,P2M,Entertainment,Android,WiFi,10,Tuesday,0
+TXN0000173301,P2M,Fuel,iOS,4G,3,Wednesday,0
+TXN0000173720,P2P,Food,Android,3G,17,Wednesday,0
+TXN0000173799,P2M,Grocery,Android,5G,23,Sunday,1
+TXN0000173816,P2P,Education,Web,5G,21,Sunday,1
+TXN0000174043,P2M,Entertainment,Android,4G,11,Sunday,1
+TXN0000174199,P2M,Grocery,iOS,4G,9,Thursday,0
+TXN0000174307,P2P,Entertainment,Android,5G,12,Tuesday,0
+TXN0000174310,P2M,Food,Android,5G,1,Sunday,1
+TXN0000174628,P2P,Education,iOS,5G,7,Wednesday,0
+TXN0000174642,P2M,Utilities,iOS,4G,8,Sunday,1
+TXN0000174670,P2P,Food,iOS,4G,16,Tuesday,0
+TXN0000174776,Bill Payment,Entertainment,Android,4G,20,Saturday,1
+TXN0000174867,P2P,Grocery,Android,5G,6,Saturday,1
+TXN0000174993,P2M,Other,Android,4G,21,Monday,0
+TXN0000175430,P2M,Grocery,iOS,WiFi,13,Monday,0
+TXN0000175690,P2M,Shopping,Android,5G,10,Sunday,1
+TXN0000175818,P2P,Food,Android,4G,4,Thursday,0
+TXN0000175941,P2P,Education,Android,WiFi,19,Friday,0
+TXN0000175961,P2P,Grocery,Web,4G,15,Sunday,1
+TXN0000176176,Bill Payment,Fuel,Android,4G,18,Tuesday,0
+TXN0000176250,P2P,Fuel,iOS,4G,9,Saturday,1
+TXN0000176366,P2P,Grocery,Android,4G,23,Sunday,1
+TXN0000176729,P2M,Education,iOS,5G,22,Tuesday,0
+TXN0000176914,P2P,Shopping,Android,4G,18,Friday,0
+TXN0000177078,P2M,Food,Android,4G,7,Tuesday,0
+TXN0000177341,P2M,Transport,Android,4G,18,Saturday,1
+TXN0000177729,P2P,Fuel,Android,3G,20,Thursday,0
+TXN0000177752,Bill Payment,Utilities,Android,5G,10,Saturday,1
+TXN0000177777,P2P,Grocery,Android,4G,16,Tuesday,0
+TXN0000177960,P2P,Other,Android,WiFi,17,Tuesday,0
+TXN0000178093,P2M,Other,Android,4G,14,Wednesday,0
+TXN0000178217,P2M,Shopping,Android,4G,17,Friday,0
+TXN0000178221,Recharge,Grocery,Web,5G,15,Saturday,1
+TXN0000178375,P2M,Entertainment,Android,4G,20,Monday,0
+TXN0000178650,P2M,Other,Android,4G,8,Thursday,0
+TXN0000178884,P2P,Shopping,Android,5G,15,Wednesday,0
+TXN0000178938,Bill Payment,Utilities,Android,4G,13,Thursday,0
+TXN0000179404,Bill Payment,Grocery,iOS,4G,21,Thursday,0
+TXN0000179533,P2M,Food,Android,4G,20,Friday,0
+TXN0000179571,P2M,Utilities,iOS,3G,20,Tuesday,0
+TXN0000179640,P2M,Utilities,Android,4G,18,Thursday,0
+TXN0000179688,P2P,Other,Android,4G,10,Friday,0
+TXN0000179823,P2M,Shopping,Android,4G,20,Sunday,1
+TXN0000179832,P2M,Utilities,Android,5G,12,Thursday,0
+TXN0000179897,P2M,Entertainment,Android,4G,15,Friday,0
+TXN0000179916,Bill Payment,Shopping,Android,4G,17,Friday,0
+TXN0000180180,Bill Payment,Fuel,iOS,4G,17,Wednesday,0
+TXN0000180502,P2P,Entertainment,Android,4G,19,Thursday,0
+TXN0000180506,P2P,Food,Android,4G,13,Sunday,1
+TXN0000180546,Bill Payment,Transport,Web,5G,3,Sunday,1
+TXN0000180607,P2M,Grocery,Android,WiFi,15,Wednesday,0
+TXN0000180663,P2P,Other,Android,4G,11,Wednesday,0
+TXN0000180783,P2M,Entertainment,Android,4G,12,Wednesday,0
+TXN0000180826,P2M,Food,Web,4G,19,Wednesday,0
+TXN0000180845,P2M,Shopping,Android,5G,7,Thursday,0
+TXN0000180857,P2M,Fuel,Android,5G,15,Sunday,1
+TXN0000181039,P2M,Grocery,Android,5G,2,Sunday,1
+TXN0000181041,P2M,Food,Android,4G,6,Wednesday,0
+TXN0000181051,Recharge,Transport,iOS,WiFi,14,Friday,0
+TXN0000181061,Bill Payment,Food,Android,4G,13,Sunday,1
+TXN0000181077,Bill Payment,Shopping,Android,4G,19,Wednesday,0
+TXN0000181213,P2M,Entertainment,Android,4G,18,Wednesday,0
+TXN0000181519,P2P,Food,Android,4G,4,Wednesday,0
+TXN0000181538,Recharge,Shopping,Android,5G,13,Wednesday,0
+TXN0000181849,P2P,Other,Android,4G,14,Monday,0
+TXN0000181907,P2P,Shopping,Android,4G,20,Sunday,1
+TXN0000181960,P2P,Shopping,iOS,5G,13,Wednesday,0
+TXN0000182028,P2P,Grocery,Android,4G,23,Monday,0
+TXN0000182053,P2M,Food,Android,5G,23,Sunday,1
+TXN0000182122,P2M,Other,Android,3G,12,Friday,0
+TXN0000182428,P2P,Transport,Android,5G,18,Monday,0
+TXN0000182707,P2M,Fuel,Android,4G,10,Tuesday,0
+TXN0000182730,Bill Payment,Grocery,Web,4G,20,Tuesday,0
+TXN0000183062,P2P,Utilities,Web,5G,13,Saturday,1
+TXN0000183212,P2M,Food,Android,4G,19,Sunday,1
+TXN0000183323,Bill Payment,Utilities,Android,4G,8,Saturday,1
+TXN0000183967,P2P,Grocery,iOS,4G,17,Monday,0
+TXN0000184147,P2M,Food,Android,4G,6,Monday,0
+TXN0000184468,P2M,Education,Android,3G,10,Saturday,1
+TXN0000184505,P2M,Other,iOS,4G,17,Tuesday,0
+TXN0000184510,P2M,Fuel,Android,WiFi,12,Friday,0
+TXN0000184942,P2P,Shopping,Android,5G,14,Friday,0
+TXN0000185140,Bill Payment,Grocery,Android,5G,12,Wednesday,0
+TXN0000185185,P2P,Entertainment,Android,4G,20,Saturday,1
+TXN0000185276,P2M,Grocery,Android,4G,21,Wednesday,0
+TXN0000185330,P2M,Utilities,Android,5G,22,Tuesday,0
+TXN0000185670,P2M,Healthcare,iOS,4G,21,Thursday,0
+TXN0000185718,P2M,Utilities,Android,4G,19,Wednesday,0
+TXN0000185740,P2M,Fuel,Android,5G,20,Friday,0
+TXN0000186027,P2P,Shopping,Android,4G,19,Sunday,1
+TXN0000186084,P2P,Entertainment,Android,4G,20,Saturday,1
+TXN0000186121,P2P,Fuel,Android,5G,17,Thursday,0
+TXN0000186210,P2P,Grocery,Android,4G,15,Saturday,1
+TXN0000186350,Recharge,Food,Android,4G,8,Tuesday,0
+TXN0000186488,P2P,Transport,iOS,4G,13,Thursday,0
+TXN0000186736,Bill Payment,Shopping,Android,5G,20,Monday,0
+TXN0000186927,P2M,Other,Android,4G,16,Wednesday,0
+TXN0000187022,P2P,Shopping,Android,5G,18,Wednesday,0
+TXN0000187121,Recharge,Grocery,Android,5G,19,Tuesday,0
+TXN0000187187,P2P,Food,iOS,4G,22,Friday,0
+TXN0000187249,P2P,Utilities,Android,4G,21,Thursday,0
+TXN0000187352,Bill Payment,Shopping,Android,4G,17,Thursday,0
+TXN0000187528,P2P,Utilities,Android,4G,18,Sunday,1
+TXN0000187613,P2P,Food,Android,5G,16,Monday,0
+TXN0000187758,P2M,Education,Android,5G,11,Friday,0
+TXN0000187778,P2P,Food,Android,4G,13,Monday,0
+TXN0000187861,P2P,Fuel,Android,WiFi,18,Thursday,0
+TXN0000188030,P2P,Education,Android,4G,15,Thursday,0
+TXN0000188072,P2P,Education,iOS,5G,17,Sunday,1
+TXN0000188197,P2P,Fuel,iOS,5G,15,Tuesday,0
+TXN0000188258,P2P,Grocery,iOS,4G,20,Thursday,0
+TXN0000188698,P2P,Food,Android,4G,16,Friday,0
+TXN0000188715,P2P,Other,Android,5G,0,Friday,0
+TXN0000189025,P2M,Transport,Android,4G,18,Wednesday,0
+TXN0000189155,Bill Payment,Grocery,iOS,4G,21,Wednesday,0
+TXN0000189196,P2P,Shopping,Android,4G,17,Wednesday,0
+TXN0000189382,Bill Payment,Transport,Android,4G,20,Monday,0
+TXN0000189478,P2P,Food,Android,4G,17,Friday,0
+TXN0000189702,P2P,Grocery,Android,4G,11,Wednesday,0
+TXN0000189845,P2P,Grocery,Android,5G,8,Saturday,1
+TXN0000189961,P2P,Healthcare,iOS,WiFi,19,Friday,0
+TXN0000190033,P2P,Shopping,Android,4G,15,Friday,0
+TXN0000190086,P2M,Fuel,Android,4G,20,Monday,0
+TXN0000190271,P2P,Entertainment,Android,5G,7,Monday,0
+TXN0000190433,P2P,Transport,Android,5G,12,Friday,0
+TXN0000190640,P2M,Entertainment,Android,4G,12,Tuesday,0
+TXN0000190801,P2P,Grocery,Android,4G,0,Wednesday,0
+TXN0000190929,Bill Payment,Utilities,Android,4G,19,Thursday,0
+TXN0000190936,P2P,Shopping,Android,4G,18,Wednesday,0
+TXN0000191123,P2P,Utilities,Android,4G,11,Saturday,1
+TXN0000191301,P2M,Grocery,iOS,4G,21,Friday,0
+TXN0000191417,P2M,Other,Android,5G,18,Friday,0
+TXN0000191514,P2P,Shopping,iOS,4G,19,Sunday,1
+TXN0000191731,P2P,Fuel,Android,4G,9,Sunday,1
+TXN0000191876,Bill Payment,Fuel,Android,5G,20,Friday,0
+TXN0000192109,P2P,Shopping,Android,5G,18,Wednesday,0
+TXN0000192192,P2M,Grocery,Android,4G,19,Friday,0
+TXN0000192294,P2M,Grocery,Web,4G,12,Tuesday,0
+TXN0000192298,P2M,Utilities,Android,4G,15,Friday,0
+TXN0000192418,P2M,Transport,iOS,4G,19,Tuesday,0
+TXN0000192696,P2M,Healthcare,Android,4G,9,Sunday,1
+TXN0000192924,P2M,Food,Android,WiFi,16,Sunday,1
+TXN0000193038,Bill Payment,Entertainment,Android,4G,4,Thursday,0
+TXN0000193118,P2P,Grocery,Web,4G,21,Friday,0
+TXN0000193550,P2P,Grocery,Android,WiFi,8,Wednesday,0
+TXN0000193802,P2P,Utilities,Android,4G,15,Monday,0
+TXN0000193962,P2P,Shopping,Android,4G,15,Wednesday,0
+TXN0000194246,Bill Payment,Healthcare,Android,4G,21,Monday,0
+TXN0000194471,P2M,Food,Android,5G,19,Sunday,1
+TXN0000194528,Recharge,Shopping,Android,4G,20,Monday,0
+TXN0000194821,P2M,Shopping,Android,5G,21,Wednesday,0
+TXN0000194950,P2P,Grocery,Android,5G,17,Wednesday,0
+TXN0000195041,P2M,Utilities,iOS,4G,13,Saturday,1
+TXN0000195156,Recharge,Shopping,Web,4G,13,Thursday,0
+TXN0000195185,P2M,Entertainment,Web,4G,14,Saturday,1
+TXN0000195215,P2P,Food,Android,4G,12,Saturday,1
+TXN0000195313,P2P,Utilities,iOS,4G,9,Friday,0
+TXN0000195562,Bill Payment,Other,Android,3G,20,Wednesday,0
+TXN0000195563,P2P,Grocery,Android,4G,21,Sunday,1
+TXN0000195661,P2M,Healthcare,iOS,4G,19,Tuesday,0
+TXN0000195761,P2M,Healthcare,Android,4G,18,Thursday,0
+TXN0000195763,P2M,Entertainment,Android,4G,11,Sunday,1
+TXN0000195796,P2P,Utilities,Android,4G,15,Sunday,1
+TXN0000195828,P2P,Food,iOS,5G,10,Wednesday,0
+TXN0000195898,Recharge,Shopping,Android,4G,10,Tuesday,0
+TXN0000196041,P2P,Transport,Android,4G,3,Friday,0
+TXN0000196216,Bill Payment,Other,Android,4G,16,Saturday,1
+TXN0000196373,P2M,Utilities,iOS,4G,17,Saturday,1
+TXN0000196388,P2M,Food,Android,5G,16,Sunday,1
+TXN0000196521,P2P,Fuel,Android,WiFi,16,Tuesday,0
+TXN0000196558,P2P,Food,Web,4G,18,Thursday,0
+TXN0000196623,P2M,Grocery,Android,3G,11,Sunday,1
+TXN0000196635,Bill Payment,Fuel,Android,4G,10,Monday,0
+TXN0000196976,P2M,Education,Android,5G,12,Saturday,1
+TXN0000197155,P2M,Other,iOS,4G,14,Thursday,0
+TXN0000197281,P2P,Other,Android,4G,8,Monday,0
+TXN0000197500,P2P,Entertainment,Web,4G,18,Thursday,0
+TXN0000197525,P2P,Healthcare,Android,4G,9,Thursday,0
+TXN0000197561,P2P,Entertainment,Android,3G,22,Sunday,1
+TXN0000197599,P2P,Entertainment,Web,4G,13,Monday,0
+TXN0000197669,P2P,Transport,Android,4G,11,Monday,0
+TXN0000197705,P2M,Entertainment,iOS,4G,10,Wednesday,0
+TXN0000197713,P2M,Entertainment,Android,WiFi,15,Friday,0
+TXN0000197738,P2M,Shopping,Android,WiFi,16,Saturday,1
+TXN0000197862,P2P,Fuel,iOS,5G,18,Wednesday,0
+TXN0000197885,P2P,Transport,Android,WiFi,15,Saturday,1
+TXN0000197904,P2M,Fuel,iOS,4G,22,Sunday,1
+TXN0000197962,P2P,Other,Android,4G,23,Friday,0
+TXN0000198369,P2P,Fuel,iOS,WiFi,11,Friday,0
+TXN0000198484,P2M,Healthcare,Android,4G,9,Friday,0
+TXN0000198663,P2M,Transport,Android,5G,12,Tuesday,0
+TXN0000198702,P2M,Utilities,Android,WiFi,12,Thursday,0
+TXN0000198762,P2P,Grocery,iOS,5G,18,Tuesday,0
+TXN0000198782,P2M,Shopping,Android,4G,8,Sunday,1
+TXN0000198798,Bill Payment,Healthcare,Android,5G,20,Friday,0
+TXN0000198905,P2P,Entertainment,Android,4G,14,Saturday,1
+TXN0000199073,Bill Payment,Shopping,Android,5G,16,Tuesday,0
+TXN0000199655,P2M,Food,Android,4G,11,Monday,0
+TXN0000199765,P2P,Food,Android,WiFi,16,Friday,0
+TXN0000199818,P2P,Fuel,Android,5G,16,Thursday,0
+TXN0000199882,P2M,Fuel,Android,WiFi,0,Tuesday,0
+TXN0000199906,P2P,Food,iOS,4G,11,Monday,0
+TXN0000200035,P2M,Grocery,iOS,4G,11,Tuesday,0
+TXN0000200047,P2M,Shopping,Android,4G,22,Sunday,1
+TXN0000200119,P2M,Healthcare,Android,WiFi,19,Tuesday,0
+TXN0000200435,P2M,Grocery,Web,4G,5,Saturday,1
+TXN0000200791,P2P,Transport,Android,4G,17,Wednesday,0
+TXN0000200804,P2P,Shopping,Android,5G,7,Saturday,1
+TXN0000200923,P2M,Shopping,Android,5G,8,Sunday,1
+TXN0000201074,P2P,Utilities,iOS,4G,10,Thursday,0
+TXN0000201097,P2M,Other,Android,4G,13,Friday,0
+TXN0000201192,P2M,Food,Android,4G,13,Tuesday,0
+TXN0000201243,P2P,Grocery,Android,4G,11,Friday,0
+TXN0000201505,P2P,Grocery,Android,4G,17,Friday,0
+TXN0000201516,Bill Payment,Utilities,Android,5G,21,Sunday,1
+TXN0000201531,P2P,Food,Android,5G,12,Thursday,0
+TXN0000201566,P2M,Other,Android,5G,22,Monday,0
+TXN0000201732,P2M,Other,iOS,4G,13,Sunday,1
+TXN0000201739,P2P,Grocery,iOS,5G,12,Wednesday,0
+TXN0000201860,P2M,Grocery,Android,4G,12,Friday,0
+TXN0000202034,P2P,Shopping,Android,4G,13,Saturday,1
+TXN0000202230,P2P,Food,Android,4G,18,Saturday,1
+TXN0000202361,P2M,Transport,Android,4G,16,Saturday,1
+TXN0000202634,P2P,Entertainment,iOS,4G,11,Wednesday,0
+TXN0000203206,P2P,Other,Android,4G,19,Friday,0
+TXN0000203438,P2P,Transport,Web,4G,21,Monday,0
+TXN0000203491,P2M,Fuel,Android,4G,22,Friday,0
+TXN0000203550,P2P,Other,Android,4G,19,Tuesday,0
+TXN0000203719,P2P,Food,iOS,4G,20,Thursday,0
+TXN0000203747,P2M,Shopping,Android,4G,18,Sunday,1
+TXN0000203795,Bill Payment,Grocery,Android,WiFi,3,Monday,0
+TXN0000203979,Recharge,Fuel,Android,5G,17,Friday,0
+TXN0000204137,P2M,Shopping,Android,4G,19,Friday,0
+TXN0000204273,P2M,Food,Android,3G,9,Sunday,1
+TXN0000204349,P2P,Utilities,Android,4G,19,Sunday,1
+TXN0000204497,P2P,Fuel,Android,5G,9,Thursday,0
+TXN0000204506,P2M,Grocery,Android,5G,8,Friday,0
+TXN0000204507,P2M,Entertainment,Android,4G,14,Sunday,1
+TXN0000204709,P2M,Food,Android,5G,17,Wednesday,0
+TXN0000204763,P2P,Utilities,iOS,4G,21,Wednesday,0
+TXN0000204847,Recharge,Shopping,Android,4G,15,Friday,0
+TXN0000205030,P2P,Education,Android,4G,19,Saturday,1
+TXN0000205178,Bill Payment,Utilities,Android,3G,17,Thursday,0
+TXN0000205284,P2M,Shopping,iOS,WiFi,13,Friday,0
+TXN0000205302,P2M,Food,Android,5G,20,Saturday,1
+TXN0000205368,P2M,Food,Android,4G,16,Friday,0
+TXN0000205576,P2P,Food,Web,4G,17,Wednesday,0
+TXN0000205778,P2P,Education,iOS,WiFi,11,Monday,0
+TXN0000206089,P2M,Fuel,Web,4G,17,Monday,0
+TXN0000206190,P2M,Utilities,Android,4G,13,Thursday,0
+TXN0000206406,P2M,Entertainment,Android,5G,12,Wednesday,0
+TXN0000206523,P2M,Other,iOS,4G,19,Friday,0
+TXN0000206690,P2P,Fuel,Web,4G,17,Tuesday,0
+TXN0000206736,Bill Payment,Other,Android,4G,11,Friday,0
+TXN0000206789,P2P,Entertainment,Android,5G,14,Monday,0
+TXN0000206965,P2P,Entertainment,Android,4G,19,Wednesday,0
+TXN0000207111,P2M,Transport,Android,4G,8,Thursday,0
+TXN0000207395,P2P,Fuel,Android,5G,17,Tuesday,0
+TXN0000207495,P2P,Grocery,Android,4G,17,Monday,0
+TXN0000207650,Bill Payment,Grocery,Android,4G,17,Monday,0
+TXN0000207667,P2P,Transport,iOS,WiFi,11,Wednesday,0
+TXN0000207738,P2M,Food,Android,5G,6,Sunday,1
+TXN0000207740,P2P,Grocery,Android,5G,23,Sunday,1
+TXN0000207763,P2M,Other,Android,5G,21,Friday,0
+TXN0000207824,Recharge,Transport,iOS,4G,18,Friday,0
+TXN0000207863,P2P,Food,Android,5G,5,Friday,0
+TXN0000208019,P2P,Grocery,iOS,5G,10,Tuesday,0
+TXN0000208020,P2P,Healthcare,iOS,4G,0,Sunday,1
+TXN0000208048,P2M,Fuel,Android,4G,13,Wednesday,0
+TXN0000208076,P2P,Fuel,Web,5G,13,Monday,0
+TXN0000208110,P2M,Food,Android,5G,11,Wednesday,0
+TXN0000208256,Bill Payment,Fuel,Android,4G,22,Thursday,0
+TXN0000208281,P2P,Entertainment,Android,5G,11,Friday,0
+TXN0000208326,P2P,Grocery,Android,4G,20,Tuesday,0
+TXN0000208365,P2P,Utilities,iOS,4G,8,Sunday,1
+TXN0000208469,Recharge,Shopping,Android,4G,17,Tuesday,0
+TXN0000208705,P2P,Food,Android,4G,11,Friday,0
+TXN0000208753,P2P,Food,Android,4G,20,Saturday,1
+TXN0000208784,Bill Payment,Transport,Android,5G,22,Friday,0
+TXN0000208847,P2P,Shopping,Android,4G,7,Sunday,1
+TXN0000209158,P2P,Fuel,Android,4G,17,Wednesday,0
+TXN0000209307,Bill Payment,Other,Android,4G,13,Saturday,1
+TXN0000209367,P2P,Grocery,iOS,WiFi,19,Thursday,0
+TXN0000209536,P2P,Grocery,Android,5G,12,Thursday,0
+TXN0000209633,Bill Payment,Shopping,Android,4G,19,Tuesday,0
+TXN0000209736,P2P,Transport,Android,4G,10,Wednesday,0
+TXN0000209818,P2P,Utilities,Android,4G,9,Thursday,0
+TXN0000209904,P2P,Shopping,Android,WiFi,16,Wednesday,0
+TXN0000209920,P2P,Shopping,Android,5G,17,Saturday,1
+TXN0000210119,P2P,Entertainment,Android,4G,17,Sunday,1
+TXN0000210517,P2P,Food,Android,5G,9,Tuesday,0
+TXN0000210518,Bill Payment,Grocery,Android,3G,16,Tuesday,0
+TXN0000210539,P2P,Shopping,Android,5G,18,Sunday,1
+TXN0000210683,P2P,Shopping,Android,4G,6,Friday,0
+TXN0000210768,P2P,Transport,Android,5G,11,Wednesday,0
+TXN0000210791,P2P,Education,Android,5G,9,Friday,0
+TXN0000210885,Bill Payment,Transport,iOS,3G,10,Thursday,0
+TXN0000210941,P2P,Entertainment,Android,3G,20,Wednesday,0
+TXN0000211356,P2M,Transport,iOS,4G,15,Thursday,0
+TXN0000211557,P2M,Food,iOS,4G,20,Wednesday,0
+TXN0000211598,P2M,Grocery,Android,4G,21,Saturday,1
+TXN0000212172,P2P,Shopping,iOS,5G,21,Tuesday,0
+TXN0000212268,Bill Payment,Shopping,iOS,4G,12,Thursday,0
+TXN0000212602,P2M,Grocery,Android,5G,21,Monday,0
+TXN0000212713,P2M,Grocery,iOS,5G,18,Wednesday,0
+TXN0000212813,Recharge,Utilities,Android,4G,15,Monday,0
+TXN0000212854,P2P,Grocery,Android,WiFi,13,Thursday,0
+TXN0000213159,P2P,Healthcare,Android,5G,18,Saturday,1
+TXN0000213500,P2M,Transport,Android,5G,19,Sunday,1
+TXN0000213530,P2M,Grocery,Android,WiFi,18,Tuesday,0
+TXN0000213654,P2P,Fuel,Android,5G,4,Sunday,1
+TXN0000213842,P2P,Food,Web,5G,13,Thursday,0
+TXN0000213939,Recharge,Education,Android,4G,20,Sunday,1
+TXN0000214228,P2M,Shopping,Android,4G,23,Tuesday,0
+TXN0000214252,Recharge,Utilities,Android,5G,20,Wednesday,0
+TXN0000214766,P2P,Shopping,iOS,4G,18,Saturday,1
+TXN0000214986,Bill Payment,Fuel,Android,4G,17,Tuesday,0
+TXN0000215326,P2P,Utilities,iOS,WiFi,11,Saturday,1
+TXN0000215402,P2M,Transport,Web,4G,8,Thursday,0
+TXN0000215496,Bill Payment,Education,Android,5G,17,Saturday,1
+TXN0000215721,Bill Payment,Other,Android,5G,8,Sunday,1
+TXN0000215735,P2P,Other,Android,4G,17,Friday,0
+TXN0000215902,P2P,Fuel,Android,4G,19,Saturday,1
+TXN0000216000,P2M,Healthcare,iOS,4G,10,Wednesday,0
+TXN0000216056,Recharge,Utilities,Android,5G,20,Sunday,1
+TXN0000216062,P2M,Food,Android,WiFi,13,Thursday,0
+TXN0000216132,P2M,Grocery,Android,4G,11,Thursday,0
+TXN0000216244,Bill Payment,Healthcare,iOS,4G,7,Tuesday,0
+TXN0000216275,P2P,Shopping,Android,4G,15,Friday,0
+TXN0000216294,P2M,Grocery,Android,5G,9,Sunday,1
+TXN0000216308,P2M,Grocery,Android,4G,12,Tuesday,0
+TXN0000216331,P2M,Shopping,iOS,3G,18,Wednesday,0
+TXN0000216450,P2P,Entertainment,Android,5G,14,Tuesday,0
+TXN0000216478,Bill Payment,Fuel,Android,4G,7,Sunday,1
+TXN0000216564,Bill Payment,Grocery,iOS,4G,15,Saturday,1
+TXN0000216659,P2P,Food,Android,5G,19,Friday,0
+TXN0000216675,Recharge,Fuel,Android,5G,15,Wednesday,0
+TXN0000216883,P2P,Transport,Android,4G,18,Monday,0
+TXN0000216902,P2M,Food,Android,5G,14,Tuesday,0
+TXN0000217057,P2M,Other,Android,5G,19,Wednesday,0
+TXN0000217096,P2P,Fuel,Android,4G,16,Wednesday,0
+TXN0000217167,P2P,Shopping,Android,4G,15,Saturday,1
+TXN0000217353,P2P,Grocery,Android,4G,13,Sunday,1
+TXN0000217543,P2M,Shopping,iOS,5G,8,Sunday,1
+TXN0000217763,P2P,Utilities,Android,4G,5,Monday,0
+TXN0000217925,P2M,Grocery,Android,WiFi,17,Friday,0
+TXN0000218235,P2P,Fuel,Android,WiFi,11,Thursday,0
+TXN0000218249,P2P,Grocery,Android,4G,11,Friday,0
+TXN0000218374,P2P,Transport,iOS,4G,4,Friday,0
+TXN0000218704,P2M,Fuel,Android,4G,20,Sunday,1
+TXN0000218721,P2P,Food,Android,4G,14,Thursday,0
+TXN0000218762,P2M,Other,iOS,4G,19,Saturday,1
+TXN0000218855,P2P,Other,Android,4G,19,Wednesday,0
+TXN0000218947,P2M,Other,Android,4G,6,Friday,0
+TXN0000218964,P2M,Grocery,Android,4G,17,Thursday,0
+TXN0000218980,P2P,Grocery,iOS,WiFi,20,Saturday,1
+TXN0000219190,P2P,Food,iOS,4G,22,Friday,0
+TXN0000219252,P2M,Food,iOS,4G,7,Thursday,0
+TXN0000219266,P2P,Grocery,Android,5G,19,Wednesday,0
+TXN0000219278,P2P,Shopping,Android,5G,12,Sunday,1
+TXN0000219618,P2M,Food,iOS,5G,23,Friday,0
+TXN0000220187,P2M,Shopping,Android,5G,21,Saturday,1
+TXN0000220229,P2M,Healthcare,Android,WiFi,1,Thursday,0
+TXN0000220540,P2P,Shopping,Android,4G,22,Monday,0
+TXN0000220680,Bill Payment,Healthcare,Android,4G,11,Wednesday,0
+TXN0000220781,P2M,Grocery,Android,4G,17,Thursday,0
+TXN0000221091,P2P,Grocery,iOS,4G,12,Monday,0
+TXN0000221151,Bill Payment,Food,Android,4G,20,Tuesday,0
+TXN0000221476,P2P,Healthcare,Android,4G,13,Wednesday,0
+TXN0000221508,Bill Payment,Grocery,Android,WiFi,11,Tuesday,0
+TXN0000221607,P2P,Food,Android,4G,20,Thursday,0
+TXN0000221610,P2P,Transport,Android,5G,13,Friday,0
+TXN0000221715,P2P,Transport,Android,4G,12,Thursday,0
+TXN0000221828,P2P,Shopping,Android,4G,11,Sunday,1
+TXN0000221841,P2P,Education,iOS,WiFi,8,Wednesday,0
+TXN0000221882,P2M,Shopping,Android,5G,18,Thursday,0
+TXN0000221964,P2P,Fuel,Android,4G,19,Tuesday,0
+TXN0000221998,Recharge,Food,Android,4G,13,Sunday,1
+TXN0000222119,Bill Payment,Grocery,Android,5G,13,Monday,0
+TXN0000222459,P2P,Entertainment,Web,WiFi,19,Tuesday,0
+TXN0000222730,P2M,Shopping,iOS,5G,17,Tuesday,0
+TXN0000222837,P2M,Food,Android,4G,16,Tuesday,0
+TXN0000222914,Recharge,Healthcare,iOS,4G,19,Friday,0
+TXN0000222957,P2P,Grocery,Android,5G,21,Monday,0
+TXN0000223037,Bill Payment,Other,Android,5G,21,Tuesday,0
+TXN0000223049,P2M,Transport,iOS,4G,18,Sunday,1
+TXN0000223134,P2P,Food,Android,WiFi,10,Saturday,1
+TXN0000223148,Bill Payment,Other,Android,5G,3,Thursday,0
+TXN0000223215,P2M,Grocery,Android,4G,20,Tuesday,0
+TXN0000223238,P2P,Utilities,Android,4G,13,Monday,0
+TXN0000223406,P2M,Food,Android,4G,9,Friday,0
+TXN0000223483,P2P,Grocery,Android,5G,20,Sunday,1
+TXN0000223686,Recharge,Shopping,iOS,5G,13,Thursday,0
+TXN0000223709,P2P,Fuel,iOS,4G,13,Monday,0
+TXN0000223766,P2P,Grocery,Android,4G,19,Friday,0
+TXN0000223799,P2M,Transport,iOS,5G,7,Saturday,1
+TXN0000223994,P2P,Shopping,Android,4G,11,Tuesday,0
+TXN0000224098,Recharge,Food,Android,4G,18,Friday,0
+TXN0000224178,P2M,Shopping,Android,4G,15,Sunday,1
+TXN0000224285,Bill Payment,Transport,Web,5G,10,Saturday,1
+TXN0000224515,P2P,Grocery,Android,4G,19,Saturday,1
+TXN0000224545,P2P,Food,iOS,4G,18,Sunday,1
+TXN0000224638,Bill Payment,Shopping,iOS,5G,13,Thursday,0
+TXN0000224713,P2P,Transport,Android,4G,20,Tuesday,0
+TXN0000224734,P2M,Grocery,Android,4G,20,Wednesday,0
+TXN0000224980,Recharge,Shopping,Android,3G,22,Monday,0
+TXN0000225188,P2P,Grocery,Android,4G,22,Sunday,1
+TXN0000225204,P2P,Entertainment,Android,4G,19,Saturday,1
+TXN0000225382,P2P,Healthcare,iOS,4G,15,Thursday,0
+TXN0000225727,P2P,Grocery,Android,4G,20,Sunday,1
+TXN0000225970,P2P,Food,Android,4G,14,Wednesday,0
+TXN0000225997,P2P,Other,Android,4G,9,Wednesday,0
+TXN0000226087,P2M,Fuel,Android,4G,11,Friday,0
+TXN0000226199,P2M,Healthcare,Android,4G,22,Tuesday,0
+TXN0000226313,Bill Payment,Healthcare,Android,5G,23,Tuesday,0
+TXN0000226452,P2M,Grocery,Android,4G,12,Tuesday,0
+TXN0000226493,Bill Payment,Grocery,iOS,WiFi,21,Wednesday,0
+TXN0000226514,P2P,Food,Android,WiFi,17,Friday,0
+TXN0000226610,P2M,Grocery,Android,4G,22,Saturday,1
+TXN0000226857,P2P,Utilities,iOS,4G,19,Thursday,0
+TXN0000226920,P2M,Shopping,Android,WiFi,10,Monday,0
+TXN0000226955,P2M,Utilities,Android,4G,11,Saturday,1
+TXN0000227082,P2P,Entertainment,iOS,5G,12,Thursday,0
+TXN0000227208,P2M,Food,Android,5G,10,Saturday,1
+TXN0000227322,P2P,Food,Android,4G,13,Wednesday,0
+TXN0000227364,P2P,Fuel,Android,WiFi,17,Saturday,1
+TXN0000227481,Bill Payment,Grocery,iOS,4G,22,Sunday,1
+TXN0000227536,Bill Payment,Entertainment,Android,4G,14,Friday,0
+TXN0000227780,P2P,Utilities,Android,4G,11,Thursday,0
+TXN0000227855,P2P,Fuel,Android,WiFi,0,Friday,0
+TXN0000227872,P2P,Grocery,Android,5G,19,Friday,0
+TXN0000228036,P2P,Shopping,Android,4G,21,Sunday,1
+TXN0000228360,P2P,Food,iOS,4G,1,Tuesday,0
+TXN0000228362,Recharge,Utilities,iOS,4G,21,Monday,0
+TXN0000228444,Bill Payment,Entertainment,Android,4G,20,Friday,0
+TXN0000228541,P2M,Transport,Android,4G,11,Thursday,0
+TXN0000228549,Bill Payment,Shopping,Android,4G,15,Sunday,1
+TXN0000228765,P2P,Grocery,Android,4G,17,Saturday,1
+TXN0000228884,P2P,Education,Android,4G,13,Tuesday,0
+TXN0000229006,Recharge,Grocery,iOS,4G,18,Monday,0
+TXN0000229146,P2P,Healthcare,Android,5G,17,Monday,0
+TXN0000229198,P2P,Utilities,Android,5G,21,Tuesday,0
+TXN0000229245,P2P,Other,iOS,WiFi,20,Friday,0
+TXN0000229286,P2P,Utilities,Android,WiFi,21,Sunday,1
+TXN0000229400,P2M,Food,Android,3G,22,Thursday,0
+TXN0000229442,P2M,Healthcare,Android,4G,20,Thursday,0
+TXN0000229500,Bill Payment,Utilities,Android,4G,22,Thursday,0
+TXN0000229620,P2M,Entertainment,Android,4G,9,Monday,0
+TXN0000229840,P2M,Fuel,Android,WiFi,20,Saturday,1
+TXN0000229950,P2P,Food,Android,5G,12,Sunday,1
+TXN0000230066,P2P,Shopping,iOS,4G,13,Saturday,1
+TXN0000230116,P2M,Shopping,Android,4G,11,Wednesday,0
+TXN0000230335,P2M,Shopping,Android,5G,23,Thursday,0
+TXN0000230345,Bill Payment,Other,Android,4G,12,Saturday,1
+TXN0000230359,P2P,Fuel,Android,4G,8,Tuesday,0
+TXN0000230495,P2P,Fuel,Android,4G,21,Saturday,1
+TXN0000230516,P2P,Utilities,Android,3G,16,Saturday,1
+TXN0000230554,P2M,Grocery,Android,5G,23,Friday,0
+TXN0000230731,P2P,Food,Web,4G,12,Wednesday,0
+TXN0000230747,P2P,Healthcare,Android,WiFi,12,Sunday,1
+TXN0000230780,P2M,Food,iOS,5G,11,Sunday,1
+TXN0000230929,Bill Payment,Grocery,Android,5G,20,Wednesday,0
+TXN0000230964,P2P,Food,Android,4G,3,Tuesday,0
+TXN0000231167,P2P,Other,Android,5G,15,Friday,0
+TXN0000231311,Bill Payment,Fuel,Android,4G,10,Wednesday,0
+TXN0000231357,P2P,Shopping,Android,WiFi,11,Sunday,1
+TXN0000231406,P2P,Grocery,Android,4G,12,Wednesday,0
+TXN0000231894,P2P,Food,Android,4G,9,Friday,0
+TXN0000232044,Bill Payment,Fuel,Android,4G,3,Tuesday,0
+TXN0000232069,P2M,Other,Android,4G,18,Wednesday,0
+TXN0000232111,P2P,Utilities,Web,4G,9,Thursday,0
+TXN0000232127,P2M,Healthcare,Android,4G,14,Wednesday,0
+TXN0000232138,P2P,Grocery,Web,4G,23,Monday,0
+TXN0000232338,P2P,Food,Android,4G,18,Friday,0
+TXN0000232370,P2P,Transport,Android,4G,14,Friday,0
+TXN0000232467,P2M,Other,Android,5G,17,Thursday,0
+TXN0000232617,P2P,Entertainment,Android,4G,20,Tuesday,0
+TXN0000232621,P2M,Shopping,Android,4G,8,Wednesday,0
+TXN0000232899,P2P,Other,Android,4G,13,Wednesday,0
+TXN0000233020,Recharge,Shopping,iOS,WiFi,1,Tuesday,0
+TXN0000233060,P2M,Shopping,Android,4G,21,Wednesday,0
+TXN0000233223,Recharge,Shopping,Android,4G,16,Sunday,1
+TXN0000233537,P2M,Transport,Android,4G,21,Tuesday,0
+TXN0000233619,Recharge,Healthcare,Android,5G,20,Monday,0
+TXN0000233663,P2M,Food,Android,4G,7,Friday,0
+TXN0000233852,Recharge,Grocery,Android,WiFi,23,Saturday,1
+TXN0000233968,Bill Payment,Grocery,Android,4G,17,Monday,0
+TXN0000234144,P2P,Transport,Android,4G,10,Tuesday,0
+TXN0000234145,P2P,Food,iOS,3G,10,Saturday,1
+TXN0000234293,Bill Payment,Other,Android,5G,2,Friday,0
+TXN0000234371,P2M,Grocery,Web,4G,19,Wednesday,0
+TXN0000234381,P2P,Food,Android,4G,15,Friday,0
+TXN0000234404,Bill Payment,Fuel,Android,4G,12,Wednesday,0
+TXN0000234618,P2P,Grocery,Android,5G,21,Friday,0
+TXN0000234639,P2P,Food,Android,4G,21,Sunday,1
+TXN0000234723,P2P,Other,Web,4G,18,Wednesday,0
+TXN0000234748,P2M,Other,Android,4G,12,Friday,0
+TXN0000234814,Bill Payment,Utilities,Android,4G,10,Saturday,1
+TXN0000234830,P2P,Food,iOS,WiFi,18,Monday,0
+TXN0000234843,P2M,Grocery,Android,4G,21,Thursday,0
+TXN0000234909,Bill Payment,Shopping,iOS,4G,14,Wednesday,0
+TXN0000234949,P2M,Entertainment,Android,5G,9,Wednesday,0
+TXN0000235066,Bill Payment,Food,Android,4G,8,Thursday,0
+TXN0000235147,P2P,Grocery,Android,5G,17,Friday,0
+TXN0000235491,P2P,Other,iOS,4G,18,Tuesday,0
+TXN0000235547,P2P,Shopping,iOS,5G,20,Wednesday,0
+TXN0000235666,P2M,Grocery,Android,4G,2,Thursday,0
+TXN0000235680,Bill Payment,Other,Android,4G,20,Wednesday,0
+TXN0000235701,P2P,Grocery,iOS,4G,18,Thursday,0
+TXN0000235720,P2M,Utilities,Android,4G,9,Tuesday,0
+TXN0000236011,P2M,Fuel,Android,4G,17,Monday,0
+TXN0000236217,P2P,Fuel,Android,5G,20,Saturday,1
+TXN0000236307,P2M,Fuel,Android,4G,14,Friday,0
+TXN0000236321,P2M,Food,Android,4G,17,Wednesday,0
+TXN0000236327,P2M,Entertainment,Android,4G,13,Friday,0
+TXN0000236338,Recharge,Healthcare,Android,4G,9,Friday,0
+TXN0000236521,P2P,Transport,Android,4G,18,Friday,0
+TXN0000236530,P2P,Education,Android,WiFi,0,Monday,0
+TXN0000236608,Recharge,Shopping,Android,4G,12,Sunday,1
+TXN0000236644,P2M,Other,Web,3G,9,Tuesday,0
+TXN0000236945,Bill Payment,Grocery,Android,4G,22,Wednesday,0
+TXN0000237093,P2M,Other,Android,WiFi,10,Monday,0
+TXN0000237151,P2M,Food,Web,3G,20,Tuesday,0
+TXN0000237243,P2M,Entertainment,iOS,4G,21,Friday,0
+TXN0000237245,P2M,Shopping,Android,4G,19,Monday,0
+TXN0000237488,P2M,Transport,Android,5G,3,Wednesday,0
+TXN0000237490,Bill Payment,Food,Android,4G,11,Friday,0
+TXN0000237611,P2P,Entertainment,Android,4G,21,Friday,0
+TXN0000237857,Recharge,Other,Android,4G,12,Sunday,1
+TXN0000237860,P2M,Entertainment,Android,4G,16,Wednesday,0
+TXN0000238140,P2P,Shopping,Android,4G,17,Tuesday,0
+TXN0000238168,P2P,Utilities,Android,4G,21,Sunday,1
+TXN0000238397,P2P,Grocery,Android,5G,16,Monday,0
+TXN0000238482,Bill Payment,Other,Web,4G,9,Thursday,0
+TXN0000238618,P2P,Education,Android,5G,13,Tuesday,0
+TXN0000238700,Bill Payment,Shopping,iOS,4G,20,Monday,0
+TXN0000238784,P2M,Transport,iOS,4G,17,Friday,0
+TXN0000238988,P2P,Shopping,Android,5G,20,Friday,0
+TXN0000239008,P2P,Fuel,Android,4G,12,Friday,0
+TXN0000239100,P2M,Grocery,iOS,5G,17,Sunday,1
+TXN0000239305,Recharge,Other,Android,4G,12,Tuesday,0
+TXN0000239378,P2M,Grocery,Android,5G,11,Thursday,0
+TXN0000239440,P2P,Other,Android,5G,21,Tuesday,0
+TXN0000239511,P2P,Education,Android,4G,16,Friday,0
+TXN0000239571,P2P,Transport,Web,WiFi,7,Friday,0
+TXN0000239718,Bill Payment,Transport,Android,4G,8,Saturday,1
+TXN0000240143,P2M,Fuel,Android,4G,10,Wednesday,0
+TXN0000240150,Bill Payment,Education,Web,4G,7,Friday,0
+TXN0000240487,P2P,Food,Android,4G,8,Thursday,0
+TXN0000240521,P2P,Food,Android,4G,19,Thursday,0
+TXN0000240597,P2M,Grocery,Android,5G,12,Friday,0
+TXN0000240999,Bill Payment,Entertainment,Android,5G,10,Sunday,1
+TXN0000241098,P2P,Food,Android,4G,22,Wednesday,0
+TXN0000241337,P2P,Entertainment,Android,4G,13,Wednesday,0
+TXN0000241370,Bill Payment,Grocery,Android,4G,17,Friday,0
+TXN0000241419,P2M,Transport,Android,4G,13,Saturday,1
+TXN0000241499,Bill Payment,Grocery,iOS,4G,11,Wednesday,0
+TXN0000241812,P2P,Grocery,Android,WiFi,20,Thursday,0
+TXN0000241817,P2P,Other,Android,4G,7,Monday,0
+TXN0000241997,P2P,Fuel,Android,4G,22,Monday,0
+TXN0000242075,P2P,Healthcare,iOS,4G,16,Wednesday,0
+TXN0000242113,P2M,Grocery,Android,5G,8,Thursday,0
+TXN0000242422,P2P,Grocery,Android,3G,11,Wednesday,0
+TXN0000242589,P2P,Food,iOS,4G,17,Saturday,1
+TXN0000242747,Bill Payment,Other,Android,4G,13,Sunday,1
+TXN0000242889,P2P,Grocery,iOS,3G,4,Friday,0
+TXN0000242914,P2P,Other,Web,4G,16,Wednesday,0
+TXN0000243239,P2P,Shopping,Android,5G,16,Thursday,0
+TXN0000243255,Bill Payment,Utilities,Android,4G,15,Monday,0
+TXN0000243271,P2P,Grocery,Android,4G,10,Monday,0
+TXN0000243285,P2M,Transport,Android,4G,17,Wednesday,0
+TXN0000243544,P2P,Grocery,Android,WiFi,19,Sunday,1
+TXN0000243562,P2P,Healthcare,Android,5G,5,Friday,0
+TXN0000243661,P2P,Food,Web,5G,18,Thursday,0
+TXN0000243849,P2M,Other,Android,4G,18,Saturday,1
+TXN0000243873,P2P,Transport,iOS,WiFi,21,Saturday,1
+TXN0000244039,P2P,Fuel,Android,5G,19,Sunday,1
+TXN0000244058,P2P,Shopping,Android,4G,20,Tuesday,0
+TXN0000244087,Bill Payment,Utilities,Android,4G,20,Thursday,0
+TXN0000244225,P2M,Grocery,Android,4G,21,Saturday,1
+TXN0000244329,Bill Payment,Healthcare,Android,4G,19,Tuesday,0
+TXN0000244434,P2M,Fuel,Android,4G,15,Thursday,0
+TXN0000244633,P2P,Transport,Android,4G,13,Tuesday,0
+TXN0000244667,P2P,Fuel,Android,5G,12,Monday,0
+TXN0000244678,Bill Payment,Fuel,iOS,4G,6,Monday,0
+TXN0000244679,P2P,Entertainment,Android,4G,19,Thursday,0
+TXN0000245043,P2P,Entertainment,Android,5G,11,Friday,0
+TXN0000245062,P2P,Food,Android,WiFi,17,Wednesday,0
+TXN0000245457,P2P,Education,Android,4G,23,Monday,0
+TXN0000245710,P2M,Food,Android,4G,20,Sunday,1
+TXN0000245847,P2P,Food,Android,WiFi,13,Sunday,1
+TXN0000246233,P2P,Entertainment,Android,WiFi,9,Monday,0
+TXN0000246415,P2M,Utilities,Android,4G,12,Thursday,0
+TXN0000246426,P2M,Shopping,iOS,4G,18,Thursday,0
+TXN0000246472,P2M,Food,Android,3G,22,Thursday,0
+TXN0000247141,P2P,Healthcare,Android,4G,23,Saturday,1
+TXN0000247203,P2P,Shopping,Android,4G,10,Tuesday,0
+TXN0000247287,P2M,Shopping,Android,4G,16,Tuesday,0
+TXN0000247466,P2P,Transport,Android,5G,14,Thursday,0
+TXN0000247505,P2M,Food,Android,5G,9,Tuesday,0
+TXN0000248027,Bill Payment,Other,Android,5G,13,Wednesday,0
+TXN0000248268,P2P,Transport,iOS,4G,18,Friday,0
+TXN0000248408,Bill Payment,Grocery,Android,4G,17,Monday,0
+TXN0000248464,P2M,Grocery,Android,4G,12,Tuesday,0
+TXN0000248484,P2M,Fuel,Android,4G,16,Sunday,1
+TXN0000248513,P2P,Shopping,iOS,4G,12,Monday,0
+TXN0000248584,Bill Payment,Fuel,Android,3G,20,Wednesday,0
+TXN0000248652,P2P,Entertainment,Android,5G,7,Saturday,1
+TXN0000248826,Recharge,Grocery,Android,4G,10,Tuesday,0
+TXN0000249192,P2P,Food,Android,4G,11,Wednesday,0
+TXN0000249252,Recharge,Grocery,Android,5G,12,Wednesday,0
+TXN0000249382,P2M,Grocery,Android,4G,12,Saturday,1
+TXN0000249450,P2M,Food,Android,4G,7,Monday,0
+TXN0000249587,P2P,Fuel,Android,WiFi,16,Saturday,1
+TXN0000249717,P2M,Entertainment,Web,5G,18,Tuesday,0

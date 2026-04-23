@@ -1,0 +1,401 @@
+sender_age_group,sender_state,sender_bank,user_id
+26-35,Delhi,Axis,1
+26-35,Uttar Pradesh,ICICI,2
+26-35,Karnataka,Yes Bank,3
+26-35,Delhi,ICICI,4
+36-45,Karnataka,IndusInd,5
+36-45,Telangana,HDFC,6
+46-55,Maharashtra,Yes Bank,7
+46-55,Maharashtra,Kotak,8
+46-55,Delhi,SBI,9
+26-35,Karnataka,SBI,10
+26-35,Gujarat,Yes Bank,11
+26-35,Uttar Pradesh,Axis,12
+56+,Gujarat,Yes Bank,13
+18-25,Uttar Pradesh,IndusInd,14
+18-25,Rajasthan,SBI,15
+46-55,Delhi,HDFC,16
+18-25,Gujarat,SBI,17
+26-35,Karnataka,ICICI,18
+26-35,Tamil Nadu,Yes Bank,19
+36-45,Karnataka,SBI,20
+26-35,Maharashtra,SBI,21
+18-25,Delhi,Axis,22
+18-25,Gujarat,HDFC,23
+18-25,Karnataka,Axis,24
+18-25,Karnataka,Kotak,25
+26-35,Delhi,PNB,26
+36-45,Delhi,SBI,27
+26-35,Gujarat,SBI,28
+18-25,Gujarat,Yes Bank,29
+26-35,Telangana,SBI,30
+18-25,Maharashtra,PNB,31
+36-45,Telangana,Axis,32
+46-55,Gujarat,HDFC,33
+18-25,Maharashtra,IndusInd,34
+56+,Uttar Pradesh,ICICI,35
+36-45,West Bengal,Yes Bank,36
+56+,Gujarat,HDFC,37
+56+,Maharashtra,Kotak,38
+26-35,Gujarat,Axis,39
+56+,Tamil Nadu,SBI,40
+18-25,Maharashtra,SBI,41
+18-25,Uttar Pradesh,Axis,42
+18-25,Delhi,Yes Bank,43
+18-25,Uttar Pradesh,PNB,44
+26-35,Maharashtra,ICICI,45
+36-45,Gujarat,ICICI,46
+18-25,Delhi,PNB,47
+36-45,Gujarat,SBI,48
+56+,Karnataka,PNB,49
+26-35,West Bengal,HDFC,50
+18-25,Karnataka,PNB,51
+36-45,Delhi,PNB,52
+18-25,Karnataka,ICICI,53
+26-35,Uttar Pradesh,Yes Bank,54
+26-35,Uttar Pradesh,SBI,55
+26-35,Rajasthan,ICICI,56
+56+,Uttar Pradesh,SBI,57
+26-35,Telangana,Axis,58
+56+,Uttar Pradesh,PNB,59
+26-35,Gujarat,PNB,60
+36-45,Gujarat,IndusInd,61
+36-45,Maharashtra,SBI,62
+36-45,Karnataka,Axis,63
+26-35,West Bengal,SBI,64
+36-45,Karnataka,PNB,65
+36-45,Tamil Nadu,ICICI,66
+26-35,Rajasthan,Yes Bank,67
+46-55,West Bengal,Axis,68
+36-45,Uttar Pradesh,PNB,69
+36-45,Andhra Pradesh,PNB,70
+46-55,Uttar Pradesh,PNB,71
+36-45,Maharashtra,HDFC,72
+36-45,Maharashtra,Kotak,73
+36-45,Tamil Nadu,IndusInd,74
+18-25,Rajasthan,Kotak,75
+46-55,Gujarat,SBI,76
+36-45,West Bengal,Axis,77
+18-25,Maharashtra,ICICI,78
+36-45,Telangana,IndusInd,79
+26-35,Karnataka,HDFC,80
+36-45,West Bengal,ICICI,81
+26-35,Andhra Pradesh,ICICI,82
+18-25,West Bengal,PNB,83
+36-45,Gujarat,Kotak,84
+26-35,Rajasthan,Kotak,85
+18-25,Rajasthan,ICICI,86
+26-35,Maharashtra,PNB,87
+36-45,Delhi,IndusInd,88
+56+,Delhi,Axis,89
+56+,Rajasthan,Yes Bank,90
+36-45,Andhra Pradesh,SBI,91
+18-25,Gujarat,ICICI,92
+18-25,Telangana,IndusInd,93
+26-35,Gujarat,HDFC,94
+26-35,Uttar Pradesh,HDFC,95
+26-35,Uttar Pradesh,Kotak,96
+36-45,Gujarat,Axis,97
+56+,Telangana,Axis,98
+56+,Karnataka,HDFC,99
+26-35,Maharashtra,Axis,100
+36-45,Maharashtra,ICICI,101
+26-35,Delhi,SBI,102
+18-25,Tamil Nadu,ICICI,103
+18-25,Telangana,SBI,104
+36-45,West Bengal,IndusInd,105
+46-55,Maharashtra,IndusInd,106
+46-55,Uttar Pradesh,SBI,107
+46-55,Uttar Pradesh,ICICI,108
+26-35,Rajasthan,IndusInd,109
+36-45,Rajasthan,IndusInd,110
+36-45,Maharashtra,Axis,111
+26-35,Uttar Pradesh,PNB,112
+26-35,Karnataka,PNB,113
+18-25,West Bengal,ICICI,114
+18-25,Uttar Pradesh,HDFC,115
+36-45,Telangana,SBI,116
+36-45,Gujarat,Yes Bank,117
+56+,Rajasthan,HDFC,118
+18-25,Andhra Pradesh,Kotak,119
+26-35,Tamil Nadu,SBI,120
+18-25,West Bengal,SBI,121
+26-35,Andhra Pradesh,HDFC,122
+26-35,Andhra Pradesh,Axis,123
+36-45,Uttar Pradesh,SBI,124
+56+,Maharashtra,SBI,125
+26-35,Delhi,Yes Bank,126
+46-55,Rajasthan,IndusInd,127
+18-25,Maharashtra,Axis,128
+36-45,Andhra Pradesh,Kotak,129
+36-45,Tamil Nadu,PNB,130
+18-25,Uttar Pradesh,SBI,131
+18-25,Gujarat,PNB,132
+36-45,Delhi,Kotak,133
+36-45,Karnataka,HDFC,134
+18-25,Karnataka,SBI,135
+18-25,Tamil Nadu,PNB,136
+26-35,Telangana,PNB,137
+36-45,Rajasthan,Axis,138
+26-35,Uttar Pradesh,IndusInd,139
+36-45,Delhi,Axis,140
+36-45,Tamil Nadu,SBI,141
+46-55,Rajasthan,HDFC,142
+26-35,Tamil Nadu,PNB,143
+18-25,Delhi,Kotak,144
+26-35,West Bengal,Axis,145
+18-25,Andhra Pradesh,PNB,146
+36-45,Telangana,Kotak,147
+26-35,Andhra Pradesh,IndusInd,148
+18-25,Andhra Pradesh,Yes Bank,149
+56+,Karnataka,ICICI,150
+36-45,Rajasthan,HDFC,151
+26-35,Tamil Nadu,HDFC,152
+36-45,West Bengal,SBI,153
+18-25,Telangana,Axis,154
+56+,Karnataka,Axis,155
+18-25,Andhra Pradesh,ICICI,156
+36-45,Delhi,Yes Bank,157
+18-25,Tamil Nadu,SBI,158
+26-35,West Bengal,Yes Bank,159
+36-45,Rajasthan,PNB,160
+36-45,West Bengal,PNB,161
+36-45,Tamil Nadu,Axis,162
+56+,Delhi,ICICI,163
+56+,Andhra Pradesh,SBI,164
+56+,Rajasthan,PNB,165
+36-45,Uttar Pradesh,Kotak,166
+18-25,Karnataka,Yes Bank,167
+36-45,Karnataka,Yes Bank,168
+46-55,Andhra Pradesh,PNB,169
+18-25,Maharashtra,HDFC,170
+18-25,Maharashtra,Kotak,171
+26-35,West Bengal,IndusInd,172
+26-35,Telangana,Yes Bank,173
+36-45,Maharashtra,Yes Bank,174
+18-25,Telangana,HDFC,175
+36-45,Gujarat,PNB,176
+18-25,Delhi,SBI,177
+36-45,Tamil Nadu,Kotak,178
+36-45,Maharashtra,IndusInd,179
+18-25,Delhi,ICICI,180
+56+,Maharashtra,PNB,181
+36-45,Telangana,Yes Bank,182
+46-55,Karnataka,HDFC,183
+26-35,Telangana,IndusInd,184
+36-45,Uttar Pradesh,Axis,185
+36-45,Maharashtra,PNB,186
+36-45,Uttar Pradesh,ICICI,187
+36-45,West Bengal,Kotak,188
+36-45,Andhra Pradesh,HDFC,189
+18-25,Uttar Pradesh,ICICI,190
+18-25,Andhra Pradesh,SBI,191
+26-35,Delhi,Kotak,192
+36-45,Delhi,ICICI,193
+46-55,Tamil Nadu,Axis,194
+18-25,Andhra Pradesh,IndusInd,195
+46-55,Tamil Nadu,HDFC,196
+26-35,Andhra Pradesh,Yes Bank,197
+26-35,West Bengal,Kotak,198
+18-25,Karnataka,HDFC,199
+36-45,Rajasthan,SBI,200
+26-35,Tamil Nadu,Axis,201
+46-55,Telangana,Kotak,202
+26-35,Rajasthan,HDFC,203
+56+,Andhra Pradesh,IndusInd,204
+36-45,Andhra Pradesh,Axis,205
+26-35,Andhra Pradesh,SBI,206
+56+,Karnataka,SBI,207
+46-55,Tamil Nadu,SBI,208
+26-35,Rajasthan,Axis,209
+26-35,Andhra Pradesh,Kotak,210
+46-55,Karnataka,ICICI,211
+46-55,Tamil Nadu,IndusInd,212
+18-25,Andhra Pradesh,HDFC,213
+46-55,Rajasthan,SBI,214
+46-55,Uttar Pradesh,Kotak,215
+18-25,Tamil Nadu,HDFC,216
+26-35,Delhi,HDFC,217
+36-45,Telangana,ICICI,218
+26-35,Maharashtra,Yes Bank,219
+26-35,Tamil Nadu,IndusInd,220
+46-55,Telangana,ICICI,221
+56+,Tamil Nadu,Axis,222
+26-35,Tamil Nadu,ICICI,223
+56+,Telangana,ICICI,224
+18-25,Maharashtra,Yes Bank,225
+18-25,Gujarat,IndusInd,226
+26-35,Tamil Nadu,Kotak,227
+36-45,Uttar Pradesh,HDFC,228
+18-25,West Bengal,Axis,229
+56+,Uttar Pradesh,Kotak,230
+18-25,Tamil Nadu,Axis,231
+46-55,Delhi,IndusInd,232
+46-55,Delhi,Kotak,233
+36-45,Delhi,HDFC,234
+36-45,Andhra Pradesh,IndusInd,235
+26-35,Rajasthan,SBI,236
+56+,Maharashtra,HDFC,237
+46-55,Maharashtra,HDFC,238
+26-35,Maharashtra,HDFC,239
+26-35,Telangana,ICICI,240
+36-45,Rajasthan,ICICI,241
+18-25,West Bengal,IndusInd,242
+26-35,Telangana,HDFC,243
+46-55,Telangana,SBI,244
+26-35,Gujarat,ICICI,245
+56+,Gujarat,SBI,246
+46-55,Telangana,PNB,247
+46-55,Telangana,IndusInd,248
+56+,West Bengal,HDFC,249
+46-55,Andhra Pradesh,IndusInd,250
+46-55,Uttar Pradesh,Axis,251
+18-25,Telangana,PNB,252
+46-55,Gujarat,ICICI,253
+18-25,Karnataka,IndusInd,254
+26-35,Andhra Pradesh,PNB,255
+26-35,West Bengal,PNB,256
+26-35,Maharashtra,Kotak,257
+36-45,Karnataka,Kotak,258
+18-25,Delhi,IndusInd,259
+18-25,Rajasthan,HDFC,260
+36-45,Tamil Nadu,HDFC,261
+56+,Telangana,IndusInd,262
+46-55,Tamil Nadu,Kotak,263
+36-45,West Bengal,HDFC,264
+18-25,Tamil Nadu,IndusInd,265
+18-25,Rajasthan,PNB,266
+56+,Maharashtra,IndusInd,267
+46-55,West Bengal,IndusInd,268
+18-25,Uttar Pradesh,Kotak,269
+46-55,Andhra Pradesh,Yes Bank,270
+36-45,Rajasthan,Yes Bank,271
+26-35,Karnataka,IndusInd,272
+18-25,Rajasthan,IndusInd,273
+18-25,Telangana,Yes Bank,274
+36-45,Andhra Pradesh,Yes Bank,275
+46-55,Andhra Pradesh,SBI,276
+18-25,West Bengal,Kotak,277
+26-35,Delhi,IndusInd,278
+46-55,Delhi,ICICI,279
+26-35,Gujarat,Kotak,280
+18-25,Telangana,Kotak,281
+46-55,Karnataka,IndusInd,282
+18-25,Telangana,ICICI,283
+18-25,Tamil Nadu,Kotak,284
+56+,Delhi,PNB,285
+18-25,West Bengal,HDFC,286
+18-25,Delhi,HDFC,287
+46-55,Uttar Pradesh,IndusInd,288
+26-35,Karnataka,Axis,289
+56+,Tamil Nadu,ICICI,290
+36-45,Karnataka,ICICI,291
+56+,Uttar Pradesh,HDFC,292
+46-55,Karnataka,SBI,293
+46-55,Karnataka,PNB,294
+18-25,Uttar Pradesh,Yes Bank,295
+46-55,Telangana,Axis,296
+56+,Telangana,Yes Bank,297
+36-45,Uttar Pradesh,Yes Bank,298
+46-55,Tamil Nadu,PNB,299
+46-55,Rajasthan,PNB,300
+36-45,Gujarat,HDFC,301
+46-55,West Bengal,SBI,302
+26-35,Karnataka,Kotak,303
+46-55,Telangana,Yes Bank,304
+56+,Delhi,Kotak,305
+56+,Maharashtra,Axis,306
+18-25,Andhra Pradesh,Axis,307
+56+,Rajasthan,Kotak,308
+18-25,West Bengal,Yes Bank,309
+46-55,West Bengal,Yes Bank,310
+46-55,Andhra Pradesh,Kotak,311
+18-25,Gujarat,Axis,312
+36-45,Andhra Pradesh,ICICI,313
+46-55,Maharashtra,SBI,314
+26-35,Rajasthan,PNB,315
+56+,Tamil Nadu,Yes Bank,316
+56+,Uttar Pradesh,IndusInd,317
+36-45,Tamil Nadu,Yes Bank,318
+46-55,Uttar Pradesh,HDFC,319
+26-35,Maharashtra,IndusInd,320
+46-55,Tamil Nadu,ICICI,321
+18-25,Tamil Nadu,Yes Bank,322
+46-55,Rajasthan,Yes Bank,323
+46-55,Uttar Pradesh,Yes Bank,324
+46-55,Gujarat,IndusInd,325
+46-55,Maharashtra,PNB,326
+36-45,Uttar Pradesh,IndusInd,327
+46-55,Gujarat,Yes Bank,328
+46-55,Telangana,HDFC,329
+56+,Telangana,SBI,330
+46-55,Maharashtra,ICICI,331
+36-45,Telangana,PNB,332
+56+,Gujarat,ICICI,333
+56+,Delhi,Yes Bank,334
+36-45,Rajasthan,Kotak,335
+46-55,West Bengal,HDFC,336
+56+,Maharashtra,Yes Bank,337
+56+,Andhra Pradesh,ICICI,338
+26-35,West Bengal,ICICI,339
+26-35,Gujarat,IndusInd,340
+18-25,Rajasthan,Yes Bank,341
+56+,Andhra Pradesh,Yes Bank,342
+46-55,Karnataka,Yes Bank,343
+26-35,Telangana,Kotak,344
+46-55,Andhra Pradesh,Axis,345
+46-55,Tamil Nadu,Yes Bank,346
+46-55,Rajasthan,ICICI,347
+46-55,Rajasthan,Kotak,348
+56+,Delhi,SBI,349
+56+,Maharashtra,ICICI,350
+56+,Uttar Pradesh,Yes Bank,351
+46-55,Gujarat,Kotak,352
+46-55,Gujarat,Axis,353
+46-55,Andhra Pradesh,ICICI,354
+56+,West Bengal,Yes Bank,355
+56+,Rajasthan,IndusInd,356
+46-55,Gujarat,PNB,357
+46-55,Maharashtra,Axis,358
+56+,Telangana,PNB,359
+56+,Telangana,HDFC,360
+56+,Delhi,HDFC,361
+46-55,West Bengal,ICICI,362
+56+,Andhra Pradesh,Kotak,363
+18-25,Rajasthan,Axis,364
+46-55,Karnataka,Axis,365
+18-25,Gujarat,Kotak,366
+46-55,West Bengal,Kotak,367
+46-55,Delhi,PNB,368
+46-55,Andhra Pradesh,HDFC,369
+56+,Karnataka,IndusInd,370
+56+,Telangana,Kotak,371
+56+,West Bengal,Kotak,372
+56+,Rajasthan,SBI,373
+56+,Rajasthan,ICICI,374
+56+,Andhra Pradesh,Axis,375
+46-55,Karnataka,Kotak,376
+56+,Andhra Pradesh,PNB,377
+56+,West Bengal,SBI,378
+56+,Delhi,IndusInd,379
+46-55,West Bengal,PNB,380
+56+,Karnataka,Yes Bank,381
+56+,Karnataka,Kotak,382
+56+,West Bengal,Axis,383
+56+,Tamil Nadu,PNB,384
+56+,Tamil Nadu,HDFC,385
+46-55,Delhi,Axis,386
+56+,West Bengal,IndusInd,387
+46-55,Rajasthan,Axis,388
+46-55,Delhi,Yes Bank,389
+56+,Andhra Pradesh,HDFC,390
+56+,Gujarat,PNB,391
+56+,Uttar Pradesh,Axis,392
+56+,Gujarat,Axis,393
+56+,West Bengal,PNB,394
+56+,Tamil Nadu,Kotak,395
+56+,Gujarat,Kotak,396
+56+,Tamil Nadu,IndusInd,397
+56+,Gujarat,IndusInd,398
+56+,Rajasthan,Axis,399
+56+,West Bengal,ICICI,400

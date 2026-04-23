@@ -1,0 +1,41 @@
+receiver_age_group,receiver_bank,receiver_id
+18-25,SBI,1
+26-35,Axis,2
+36-45,PNB,3
+26-35,PNB,4
+18-25,Yes Bank,5
+18-25,IndusInd,6
+36-45,SBI,7
+36-45,HDFC,8
+18-25,HDFC,9
+46-55,SBI,10
+18-25,Kotak,11
+36-45,Yes Bank,12
+46-55,Axis,13
+18-25,PNB,14
+36-45,IndusInd,15
+26-35,ICICI,16
+26-35,SBI,17
+46-55,Yes Bank,18
+18-25,ICICI,19
+56+,SBI,20
+18-25,Axis,21
+26-35,HDFC,22
+26-35,Yes Bank,23
+26-35,Kotak,24
+36-45,ICICI,25
+46-55,ICICI,26
+26-35,IndusInd,27
+36-45,Kotak,28
+36-45,Axis,29
+46-55,IndusInd,30
+46-55,HDFC,31
+56+,Yes Bank,32
+46-55,PNB,33
+56+,PNB,34
+56+,ICICI,35
+46-55,Kotak,36
+56+,IndusInd,37
+56+,HDFC,38
+56+,Axis,39
+56+,Kotak,40
