@@ -1,5 +1,8 @@
 UPI Transaction Analysis (End-to-End Data Analytics Project)
 
+<img width="1234" height="697" alt="image" src="https://github.com/user-attachments/assets/5620b437-7420-41d9-9ae7-5092ec65970d" />
+
+
 # Project Overview
 This project analyzes UPI (Unified Payments Interface) transaction data to understand user behavior, spending patterns, and fraud trends. It follows a complete data analytics workflow including data preprocessing using Python, analytical querying using SQL, and dashboard creation using Power BI.
 
